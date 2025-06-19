@@ -1,0 +1,6 @@
+filename,cls,xymin,xymax,names
+ILSVRC2012_val_00050000,n02437616,"(237, 109)","(446, 374)",llama
+ILSVRC2012_val_00049999,n10148035,"(0, 25)","(146, 498)","groom, bridegroom"
+ILSVRC2012_val_00049998,n02106166,"(11, 2)","(499, 335)",Border collie
+ILSVRC2012_val_00049997,n01630670,"(99, 73)","(658, 346)","common newt, Triturus vulgaris"
+ILSVRC2012_val_00049996,n02123394,"(0, 0)","(475, 350)",Persian cat

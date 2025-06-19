@@ -1,0 +1,1501 @@
+filename,cls,xymin,xymax,names
+ILSVRC2012_val_00050000,n02437616,"(237, 109)","(446, 374)",llama
+ILSVRC2012_val_00049999,n10148035,"(0, 25)","(146, 498)","groom, bridegroom"
+ILSVRC2012_val_00049998,n02106166,"(11, 2)","(499, 335)",Border collie
+ILSVRC2012_val_00049997,n01630670,"(99, 73)","(658, 346)","common newt, Triturus vulgaris"
+ILSVRC2012_val_00049996,n02123394,"(0, 0)","(475, 350)",Persian cat
+ILSVRC2012_val_00049995,n03729826,"(115, 188)","(134, 332)",matchstick
+ILSVRC2012_val_00049994,n01871265,"(64, 8)","(499, 374)",tusker
+ILSVRC2012_val_00049993,n04328186,"(58, 0)","(435, 347)","stopwatch, stop watch"
+ILSVRC2012_val_00049992,n02442845,"(130, 56)","(374, 317)",mink
+ILSVRC2012_val_00049991,n01980166,"(190, 172)","(440, 296)",fiddler crab
+ILSVRC2012_val_00049990,n01622779,"(217, 43)","(385, 463)","great grey owl, great gray owl, Strix nebulosa"
+ILSVRC2012_val_00049989,n02667093,"(48, 7)","(379, 565)",abaya
+ILSVRC2012_val_00049988,n01796340,"(219, 176)","(333, 295)",ptarmigan
+ILSVRC2012_val_00049987,n01689811,"(0, 1)","(411, 418)",alligator lizard
+ILSVRC2012_val_00049986,n02802426,"(171, 67)","(210, 105)",basketball
+ILSVRC2012_val_00049985,n02481823,"(0, 12)","(566, 480)","chimpanzee, chimp, Pan troglodytes"
+ILSVRC2012_val_00049984,n02119022,"(15, 50)","(347, 220)","red fox, Vulpes vulpes"
+ILSVRC2012_val_00049983,n04485082,"(0, 0)","(473, 374)",tripod
+ILSVRC2012_val_00049982,n06794110,"(12, 11)","(229, 488)",street sign
+ILSVRC2012_val_00049981,n01981276,"(118, 64)","(431, 366)","king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica"
+ILSVRC2012_val_00049980,n01697457,"(6, 122)","(437, 223)","African crocodile, Nile crocodile, Crocodylus niloticus"
+ILSVRC2012_val_00049979,n02877765,"(27, 43)","(430, 438)",bottlecap
+ILSVRC2012_val_00049978,n02841315,"(48, 25)","(390, 302)","binoculars, field glasses, opera glasses"
+ILSVRC2012_val_00049977,n01914609,"(71, 13)","(480, 303)","sea anemone, anemone"
+ILSVRC2012_val_00049976,n02445715,"(215, 146)","(412, 294)","skunk, polecat, wood pussy"
+ILSVRC2012_val_00049975,n01755581,"(15, 202)","(486, 377)","diamondback, diamondback rattlesnake, Crotalus adamanteus"
+ILSVRC2012_val_00049974,n02486410,"(281, 192)","(455, 471)",baboon
+ILSVRC2012_val_00049973,n02133161,"(351, 254)","(1036, 1174)","American black bear, black bear, Ursus americanus, Euarctos americanus"
+ILSVRC2012_val_00049972,n03908618,"(63, 46)","(360, 492)","pencil box, pencil case"
+ILSVRC2012_val_00049971,n03467068,"(2, 5)","(220, 408)",guillotine
+ILSVRC2012_val_00049970,n07248320,"(0, 0)","(449, 498)","book jacket, dust cover, dust jacket, dust wrapper"
+ILSVRC2012_val_00049969,n04266014,"(153, 83)","(499, 224)",space shuttle
+ILSVRC2012_val_00049968,n04584207,"(32, 30)","(243, 260)",wig
+ILSVRC2012_val_00049967,n03207743,"(41, 12)","(476, 369)","dishrag, dishcloth"
+ILSVRC2012_val_00049966,n01833805,"(141, 93)","(346, 446)",hummingbird
+ILSVRC2012_val_00049965,n02100735,"(8, 143)","(226, 468)",English setter
+ILSVRC2012_val_00049964,n07615774,"(48, 62)","(149, 290)","ice lolly, lolly, lollipop, popsicle"
+ILSVRC2012_val_00049963,n03929855,"(259, 11)","(287, 41)",pickelhaube
+ILSVRC2012_val_00049962,n01817953,"(94, 63)","(364, 372)","African grey, African gray, Psittacus erithacus"
+ILSVRC2012_val_00049961,n02268853,"(110, 150)","(300, 328)",damselfly
+ILSVRC2012_val_00049960,n02132136,"(67, 52)","(271, 296)","brown bear, bruin, Ursus arctos"
+ILSVRC2012_val_00049959,n02099712,"(212, 95)","(418, 316)",Labrador retriever
+ILSVRC2012_val_00049958,n02410509,"(116, 102)","(371, 476)",bison
+ILSVRC2012_val_00049957,n04525305,"(51, 6)","(426, 374)",vending machine
+ILSVRC2012_val_00049956,n02107683,"(89, 93)","(368, 374)",Bernese mountain dog
+ILSVRC2012_val_00049955,n04270147,"(21, 69)","(559, 229)",spatula
+ILSVRC2012_val_00049954,n01697457,"(269, 120)","(468, 231)","African crocodile, Nile crocodile, Crocodylus niloticus"
+ILSVRC2012_val_00049953,n03134739,"(31, 170)","(219, 350)",croquet ball
+ILSVRC2012_val_00049952,n04507155,"(122, 170)","(245, 242)",umbrella
+ILSVRC2012_val_00049951,n04560804,"(125, 2)","(396, 406)",water jug
+ILSVRC2012_val_00049950,n03998194,"(0, 311)","(373, 498)","prayer rug, prayer mat"
+ILSVRC2012_val_00049949,n03535780,"(154, 54)","(482, 94)","horizontal bar, high bar"
+ILSVRC2012_val_00049948,n02326432,"(197, 121)","(751, 691)",hare
+ILSVRC2012_val_00049947,n03447721,"(6, 6)","(185, 196)","gong, tam-tam"
+ILSVRC2012_val_00049946,n04317175,"(25, 30)","(361, 493)",stethoscope
+ILSVRC2012_val_00049945,n03787032,"(1, 60)","(286, 322)",mortarboard
+ILSVRC2012_val_00049944,n04515003,"(0, 0)","(119, 89)","upright, upright piano"
+ILSVRC2012_val_00049943,n03028079,"(0, 16)","(423, 497)","church, church building"
+ILSVRC2012_val_00049942,n02106166,"(67, 8)","(348, 337)",Border collie
+ILSVRC2012_val_00049941,n04192698,"(11, 7)","(488, 468)","shield, buckler"
+ILSVRC2012_val_00049940,n03208938,"(569, 83)","(2373, 1945)","disk brake, disc brake"
+ILSVRC2012_val_00049939,n02110627,"(260, 292)","(444, 496)","affenpinscher, monkey pinscher, monkey dog"
+ILSVRC2012_val_00049938,n03133878,"(0, 86)","(498, 401)",Crock Pot
+ILSVRC2012_val_00049937,n01860187,"(65, 108)","(283, 292)","black swan, Cygnus atratus"
+ILSVRC2012_val_00049936,n02536864,"(139, 168)","(412, 272)","coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch"
+ILSVRC2012_val_00049935,n03733281,"(0, 139)","(473, 374)","maze, labyrinth"
+ILSVRC2012_val_00049934,n02104029,"(37, 7)","(499, 374)",kuvasz
+ILSVRC2012_val_00049933,n01751748,"(168, 158)","(376, 214)",sea snake
+ILSVRC2012_val_00049932,n03991062,"(195, 116)","(379, 266)","pot, flowerpot"
+ILSVRC2012_val_00049931,n02088238,"(0, 39)","(175, 346)","basset, basset hound"
+ILSVRC2012_val_00049930,n03482405,"(4, 58)","(638, 399)",hamper
+ILSVRC2012_val_00049929,n04557648,"(82, 290)","(312, 498)",water bottle
+ILSVRC2012_val_00049928,n07892512,"(17, 61)","(276, 416)",red wine
+ILSVRC2012_val_00049927,n04532106,"(33, 63)","(292, 488)",vestment
+ILSVRC2012_val_00049926,n02094114,"(11, 8)","(453, 445)",Norfolk terrier
+ILSVRC2012_val_00049925,n04465501,"(60, 2)","(468, 372)",tractor
+ILSVRC2012_val_00049924,n03676483,"(245, 217)","(285, 397)","lipstick, lip rouge"
+ILSVRC2012_val_00049923,n04147183,"(59, 0)","(191, 293)",schooner
+ILSVRC2012_val_00049922,n04456115,"(121, 44)","(454, 287)",torch
+ILSVRC2012_val_00049921,n04554684,"(2, 0)","(498, 417)","washer, automatic washer, washing machine"
+ILSVRC2012_val_00049920,n02977058,"(80, 2)","(321, 416)","cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM"
+ILSVRC2012_val_00049919,n03400231,"(0, 0)","(499, 374)","frying pan, frypan, skillet"
+ILSVRC2012_val_00049918,n03250847,"(248, 1)","(282, 215)",drumstick
+ILSVRC2012_val_00049917,n04505470,"(10, 134)","(499, 336)",typewriter keyboard
+ILSVRC2012_val_00049916,n03627232,"(4, 4)","(499, 371)",knot
+ILSVRC2012_val_00049915,n02500267,"(0, 23)","(307, 498)","indri, indris, Indri indri, Indri brevicaudatus"
+ILSVRC2012_val_00049914,n01930112,"(1, 55)","(474, 222)","nematode, nematode worm, roundworm"
+ILSVRC2012_val_00049913,n03992509,"(100, 151)","(368, 280)",potter's wheel
+ILSVRC2012_val_00049912,n02437312,"(51, 158)","(326, 280)","Arabian camel, dromedary, Camelus dromedarius"
+ILSVRC2012_val_00049911,n02787622,"(113, 128)","(348, 375)",banjo
+ILSVRC2012_val_00049910,n03717622,"(16, 15)","(486, 485)",manhole cover
+ILSVRC2012_val_00049909,n02777292,"(0, 348)","(593, 388)","balance beam, beam"
+ILSVRC2012_val_00049908,n02113978,"(198, 67)","(458, 481)",Mexican hairless
+ILSVRC2012_val_00049907,n03063689,"(16, 17)","(433, 349)",coffeepot
+ILSVRC2012_val_00049906,n12057211,"(142, 188)","(216, 316)","yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+ILSVRC2012_val_00049905,n01955084,"(76, 52)","(515, 522)","chiton, coat-of-mail shell, sea cradle, polyplacophore"
+ILSVRC2012_val_00049904,n02877765,"(260, 271)","(349, 392)",bottlecap
+ILSVRC2012_val_00049903,n02892201,"(105, 89)","(403, 293)","brass, memorial tablet, plaque"
+ILSVRC2012_val_00049902,n02481823,"(73, 13)","(380, 565)","chimpanzee, chimp, Pan troglodytes"
+ILSVRC2012_val_00049901,n02108422,"(7, 163)","(346, 498)",bull mastiff
+ILSVRC2012_val_00049900,n12267677,"(156, 219)","(222, 301)",acorn
+ILSVRC2012_val_00049899,n01614925,"(48, 65)","(407, 351)","bald eagle, American eagle, Haliaeetus leucocephalus"
+ILSVRC2012_val_00049898,n01629819,"(99, 101)","(432, 201)","European fire salamander, Salamandra salamandra"
+ILSVRC2012_val_00049897,n02326432,"(84, 11)","(299, 200)",hare
+ILSVRC2012_val_00049896,n02786058,"(76, 184)","(106, 226)",Band Aid
+ILSVRC2012_val_00049895,n02108915,"(100, 41)","(298, 426)",French bulldog
+ILSVRC2012_val_00049894,n02088094,"(89, 10)","(469, 390)","Afghan hound, Afghan"
+ILSVRC2012_val_00049893,n02107683,"(193, 60)","(497, 374)",Bernese mountain dog
+ILSVRC2012_val_00049892,n03843555,"(145, 28)","(499, 374)",oil filter
+ILSVRC2012_val_00049891,n03467068,"(0, 7)","(499, 384)",guillotine
+ILSVRC2012_val_00049890,n04154565,"(84, 42)","(499, 122)",screwdriver
+ILSVRC2012_val_00049889,n02701002,"(50, 38)","(471, 332)",ambulance
+ILSVRC2012_val_00049888,n03706229,"(42, 0)","(460, 279)",magnetic compass
+ILSVRC2012_val_00049887,n03240683,"(16, 101)","(165, 265)","drilling platform, offshore rig"
+ILSVRC2012_val_00049886,n02119022,"(97, 69)","(559, 350)","red fox, Vulpes vulpes"
+ILSVRC2012_val_00049885,n09246464,"(0, 6)","(373, 498)","cliff, drop, drop-off"
+ILSVRC2012_val_00049884,n02113186,"(1, 6)","(222, 231)","Cardigan, Cardigan Welsh corgi"
+ILSVRC2012_val_00049883,n03146219,"(46, 205)","(322, 493)",cuirass
+ILSVRC2012_val_00049882,n02817516,"(90, 8)","(154, 81)","bearskin, busby, shako"
+ILSVRC2012_val_00049881,n02110341,"(134, 33)","(398, 338)","dalmatian, coach dog, carriage dog"
+ILSVRC2012_val_00049880,n03775071,"(260, 2)","(499, 299)",mitten
+ILSVRC2012_val_00049879,n07873807,"(1, 1)","(373, 498)","pizza, pizza pie"
+ILSVRC2012_val_00049878,n02088094,"(27, 92)","(405, 452)","Afghan hound, Afghan"
+ILSVRC2012_val_00049877,n07716358,"(128, 161)","(497, 370)","zucchini, courgette"
+ILSVRC2012_val_00049876,n04235860,"(33, 19)","(499, 295)",sleeping bag
+ILSVRC2012_val_00049875,n07717556,"(211, 27)","(498, 438)",butternut squash
+ILSVRC2012_val_00049874,n03180011,"(92, 0)","(440, 374)",desktop computer
+ILSVRC2012_val_00049873,n03272010,"(119, 179)","(450, 330)",electric guitar
+ILSVRC2012_val_00049872,n07920052,"(0, 32)","(432, 374)",espresso
+ILSVRC2012_val_00049871,n02105855,"(31, 78)","(242, 315)","Shetland sheepdog, Shetland sheep dog, Shetland"
+ILSVRC2012_val_00049870,n04435653,"(0, 0)","(499, 374)",tile roof
+ILSVRC2012_val_00049869,n03124170,"(12, 126)","(326, 411)","cowboy hat, ten-gallon hat"
+ILSVRC2012_val_00049868,n02101388,"(3, 156)","(438, 374)",Brittany spaniel
+ILSVRC2012_val_00049867,n02974003,"(83, 166)","(469, 452)",car wheel
+ILSVRC2012_val_00049866,n02408429,"(225, 112)","(356, 238)","water buffalo, water ox, Asiatic buffalo, Bubalus bubalis"
+ILSVRC2012_val_00049865,n02356798,"(16, 112)","(109, 362)","fox squirrel, eastern fox squirrel, Sciurus niger"
+ILSVRC2012_val_00049864,n03134739,"(488, 427)","(524, 442)",croquet ball
+ILSVRC2012_val_00049863,n04367480,"(125, 46)","(248, 459)","swab, swob, mop"
+ILSVRC2012_val_00049862,n12768682,"(150, 324)","(304, 445)","buckeye, horse chestnut, conker"
+ILSVRC2012_val_00049861,n02090622,"(76, 53)","(469, 573)","borzoi, Russian wolfhound"
+ILSVRC2012_val_00049860,n03404251,"(58, 151)","(333, 475)",fur coat
+ILSVRC2012_val_00049859,n04483307,"(25, 1)","(798, 478)",trimaran
+ILSVRC2012_val_00049858,n13044778,"(158, 72)","(327, 234)",earthstar
+ILSVRC2012_val_00049857,n02101388,"(163, 73)","(393, 374)",Brittany spaniel
+ILSVRC2012_val_00049856,n03803284,"(374, 176)","(427, 247)",muzzle
+ILSVRC2012_val_00049855,n02099601,"(114, 138)","(249, 282)",golden retriever
+ILSVRC2012_val_00049854,n04040759,"(152, 55)","(436, 372)",radiator
+ILSVRC2012_val_00049853,n04493381,"(3, 197)","(465, 497)","tub, vat"
+ILSVRC2012_val_00049852,n03388043,"(433, 171)","(476, 304)",fountain
+ILSVRC2012_val_00049851,n01682714,"(58, 228)","(390, 322)","American chameleon, anole, Anolis carolinensis"
+ILSVRC2012_val_00049850,n04238763,"(287, 46)","(385, 102)","slide rule, slipstick"
+ILSVRC2012_val_00049849,n02090622,"(43, 25)","(267, 398)","borzoi, Russian wolfhound"
+ILSVRC2012_val_00049848,n03131574,"(0, 0)","(499, 373)","crib, cot"
+ILSVRC2012_val_00049847,n03837869,"(0, 33)","(370, 498)",obelisk
+ILSVRC2012_val_00049846,n02094114,"(48, 73)","(449, 321)",Norfolk terrier
+ILSVRC2012_val_00049845,n02169497,"(213, 58)","(391, 326)","leaf beetle, chrysomelid"
+ILSVRC2012_val_00049844,n04136333,"(103, 265)","(219, 403)",sarong
+ILSVRC2012_val_00049843,n02704792,"(49, 27)","(602, 263)","amphibian, amphibious vehicle"
+ILSVRC2012_val_00049842,n03467068,"(0, 0)","(321, 498)",guillotine
+ILSVRC2012_val_00049841,n02109961,"(54, 11)","(498, 404)","Eskimo dog, husky"
+ILSVRC2012_val_00049840,n03776460,"(27, 122)","(346, 441)","mobile home, manufactured home"
+ILSVRC2012_val_00049839,n04328186,"(2, 9)","(478, 374)","stopwatch, stop watch"
+ILSVRC2012_val_00049838,n02910353,"(20, 235)","(491, 581)",buckle
+ILSVRC2012_val_00049837,n03218198,"(74, 187)","(458, 239)","dogsled, dog sled, dog sleigh"
+ILSVRC2012_val_00049836,n04254120,"(195, 54)","(294, 259)",soap dispenser
+ILSVRC2012_val_00049835,n03047690,"(160, 26)","(246, 97)","clog, geta, patten, sabot"
+ILSVRC2012_val_00049834,n02105056,"(140, 59)","(494, 370)",groenendael
+ILSVRC2012_val_00049833,n01514859,"(40, 172)","(373, 498)",hen
+ILSVRC2012_val_00049832,n07614500,"(45, 56)","(478, 374)","ice cream, icecream"
+ILSVRC2012_val_00049831,n03877845,"(0, 7)","(499, 276)",palace
+ILSVRC2012_val_00049830,n02396427,"(250, 97)","(441, 276)","wild boar, boar, Sus scrofa"
+ILSVRC2012_val_00049829,n03803284,"(103, 201)","(223, 376)",muzzle
+ILSVRC2012_val_00049828,n03527444,"(32, 57)","(345, 287)",holster
+ILSVRC2012_val_00049827,n02814860,"(47, 8)","(173, 423)","beacon, lighthouse, beacon light, pharos"
+ILSVRC2012_val_00049826,n02105412,"(62, 12)","(399, 262)",kelpie
+ILSVRC2012_val_00049825,n03485794,"(0, 118)","(207, 352)","handkerchief, hankie, hanky, hankey"
+ILSVRC2012_val_00049824,n02939185,"(0, 31)","(373, 485)","caldron, cauldron"
+ILSVRC2012_val_00049823,n01748264,"(107, 54)","(343, 638)","Indian cobra, Naja naja"
+ILSVRC2012_val_00049822,n02132136,"(284, 281)","(1010, 780)","brown bear, bruin, Ursus arctos"
+ILSVRC2012_val_00049821,n03272562,"(20, 132)","(361, 286)",electric locomotive
+ILSVRC2012_val_00049820,n04376876,"(231, 112)","(372, 228)",syringe
+ILSVRC2012_val_00049819,n02088238,"(128, 143)","(381, 278)","basset, basset hound"
+ILSVRC2012_val_00049818,n03785016,"(730, 519)","(1439, 1620)",moped
+ILSVRC2012_val_00049817,n03775071,"(7, 20)","(484, 472)",mitten
+ILSVRC2012_val_00049816,n02791270,"(0, 1)","(499, 374)",barbershop
+ILSVRC2012_val_00049815,n02105056,"(96, 1)","(498, 276)",groenendael
+ILSVRC2012_val_00049814,n03908714,"(43, 77)","(165, 263)",pencil sharpener
+ILSVRC2012_val_00049813,n03673027,"(154, 2)","(499, 332)","liner, ocean liner"
+ILSVRC2012_val_00049812,n04201297,"(18, 88)","(320, 433)",shoji
+ILSVRC2012_val_00049811,n02112018,"(71, 46)","(326, 465)",Pomeranian
+ILSVRC2012_val_00049810,n04179913,"(95, 301)","(337, 461)",sewing machine
+ILSVRC2012_val_00049809,n02089867,"(99, 30)","(346, 373)","Walker hound, Walker foxhound"
+ILSVRC2012_val_00049808,n04505470,"(39, 230)","(463, 429)",typewriter keyboard
+ILSVRC2012_val_00049807,n04486054,"(284, 171)","(335, 205)",triumphal arch
+ILSVRC2012_val_00049806,n03998194,"(150, 92)","(245, 137)","prayer rug, prayer mat"
+ILSVRC2012_val_00049805,n02101556,"(125, 133)","(325, 405)","clumber, clumber spaniel"
+ILSVRC2012_val_00049804,n04204238,"(7, 11)","(288, 267)",shopping basket
+ILSVRC2012_val_00049803,n01560419,"(72, 77)","(365, 337)",bulbul
+ILSVRC2012_val_00049802,n01774384,"(141, 155)","(267, 346)","black widow, Latrodectus mactans"
+ILSVRC2012_val_00049801,n02071294,"(0, 169)","(89, 225)","killer whale, killer, orca, grampus, sea wolf, Orcinus orca"
+ILSVRC2012_val_00049800,n02086079,"(185, 147)","(337, 256)","Pekinese, Pekingese, Peke"
+ILSVRC2012_val_00049799,n03720891,"(105, 52)","(341, 285)",maraca
+ILSVRC2012_val_00049798,n04209239,"(30, 0)","(316, 498)",shower curtain
+ILSVRC2012_val_00049797,n04371774,"(82, 71)","(263, 348)",swing
+ILSVRC2012_val_00049796,n07693725,"(0, 227)","(287, 473)","bagel, beigel"
+ILSVRC2012_val_00049795,n03814906,"(161, 63)","(318, 463)",necklace
+ILSVRC2012_val_00049794,n04523525,"(52, 33)","(142, 158)",vault
+ILSVRC2012_val_00049793,n03443371,"(20, 13)","(295, 496)",goblet
+ILSVRC2012_val_00049792,n02102480,"(60, 279)","(352, 450)",Sussex spaniel
+ILSVRC2012_val_00049791,n04005630,"(178, 195)","(217, 245)","prison, prison house"
+ILSVRC2012_val_00049790,n04019541,"(25, 451)","(47, 465)","puck, hockey puck"
+ILSVRC2012_val_00049789,n03930630,"(71, 68)","(447, 300)","pickup, pickup truck"
+ILSVRC2012_val_00049788,n02132136,"(0, 80)","(284, 229)","brown bear, bruin, Ursus arctos"
+ILSVRC2012_val_00049787,n04357314,"(7, 13)","(172, 463)","sunscreen, sunblock, sun blocker"
+ILSVRC2012_val_00049786,n02916936,"(56, 85)","(347, 437)",bulletproof vest
+ILSVRC2012_val_00049785,n03692522,"(108, 123)","(196, 205)","loupe, jeweler's loupe"
+ILSVRC2012_val_00049784,n03782006,"(0, 0)","(363, 374)",monitor
+ILSVRC2012_val_00049783,n02007558,"(82, 23)","(400, 477)",flamingo
+ILSVRC2012_val_00049782,n01669191,"(93, 50)","(432, 290)","box turtle, box tortoise"
+ILSVRC2012_val_00049781,n02137549,"(229, 70)","(614, 201)",mongoose
+ILSVRC2012_val_00049780,n02442845,"(175, 199)","(216, 226)",mink
+ILSVRC2012_val_00049779,n02088632,"(188, 30)","(405, 262)",bluetick
+ILSVRC2012_val_00049778,n02091134,"(1, 137)","(397, 294)",whippet
+ILSVRC2012_val_00049777,n02777292,"(0, 272)","(331, 318)","balance beam, beam"
+ILSVRC2012_val_00049776,n01558993,"(57, 112)","(300, 403)","robin, American robin, Turdus migratorius"
+ILSVRC2012_val_00049775,n01601694,"(220, 101)","(326, 348)","water ouzel, dipper"
+ILSVRC2012_val_00049774,n03950228,"(113, 52)","(303, 267)","pitcher, ewer"
+ILSVRC2012_val_00049773,n01664065,"(0, 0)","(373, 378)","loggerhead, loggerhead turtle, Caretta caretta"
+ILSVRC2012_val_00049772,n03782006,"(191, 94)","(317, 172)",monitor
+ILSVRC2012_val_00049771,n04350905,"(47, 158)","(264, 374)","suit, suit of clothes"
+ILSVRC2012_val_00049770,n02356798,"(207, 255)","(1169, 1063)","fox squirrel, eastern fox squirrel, Sciurus niger"
+ILSVRC2012_val_00049769,n03891251,"(1, 3)","(499, 340)",park bench
+ILSVRC2012_val_00049768,n04229816,"(303, 88)","(464, 288)",ski mask
+ILSVRC2012_val_00049767,n03787032,"(32, 7)","(299, 158)",mortarboard
+ILSVRC2012_val_00049766,n02090379,"(100, 0)","(398, 460)",redbone
+ILSVRC2012_val_00049765,n04604644,"(12, 49)","(498, 361)","worm fence, snake fence, snake-rail fence, Virginia fence"
+ILSVRC2012_val_00049764,n04548280,"(170, 123)","(342, 366)",wall clock
+ILSVRC2012_val_00049763,n01968897,"(41, 0)","(495, 375)","chambered nautilus, pearly nautilus, nautilus"
+ILSVRC2012_val_00049762,n02088466,"(1, 144)","(347, 374)","bloodhound, sleuthhound"
+ILSVRC2012_val_00049761,n01873310,"(5, 0)","(331, 421)","platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus"
+ILSVRC2012_val_00049760,n02095889,"(1, 42)","(327, 279)","Sealyham terrier, Sealyham"
+ILSVRC2012_val_00049759,n03196217,"(87, 58)","(383, 303)",digital clock
+ILSVRC2012_val_00049758,n04548362,"(92, 190)","(321, 360)","wallet, billfold, notecase, pocketbook"
+ILSVRC2012_val_00049757,n02097298,"(47, 0)","(401, 478)","Scotch terrier, Scottish terrier, Scottie"
+ILSVRC2012_val_00049756,n02088094,"(68, 55)","(246, 457)","Afghan hound, Afghan"
+ILSVRC2012_val_00049755,n03218198,"(443, 0)","(499, 6)","dogsled, dog sled, dog sleigh"
+ILSVRC2012_val_00049754,n04266014,"(17, 0)","(499, 374)",space shuttle
+ILSVRC2012_val_00049753,n04522168,"(18, 17)","(498, 498)",vase
+ILSVRC2012_val_00049752,n03180011,"(61, 134)","(1633, 1428)",desktop computer
+ILSVRC2012_val_00049751,n02787622,"(0, 64)","(447, 374)",banjo
+ILSVRC2012_val_00049750,n03792782,"(117, 218)","(274, 497)","mountain bike, all-terrain bike, off-roader"
+ILSVRC2012_val_00049749,n02871525,"(0, 1)","(499, 372)","bookshop, bookstore, bookstall"
+ILSVRC2012_val_00049748,n04398044,"(8, 24)","(492, 344)",teapot
+ILSVRC2012_val_00049747,n03100240,"(34, 106)","(610, 466)",convertible
+ILSVRC2012_val_00049746,n02037110,"(110, 52)","(463, 337)","oystercatcher, oyster catcher"
+ILSVRC2012_val_00049745,n03776460,"(28, 30)","(451, 294)","mobile home, manufactured home"
+ILSVRC2012_val_00049744,n02090721,"(25, 35)","(309, 209)",Irish wolfhound
+ILSVRC2012_val_00049743,n03017168,"(0, 10)","(373, 440)","chime, bell, gong"
+ILSVRC2012_val_00049742,n02281406,"(173, 45)","(259, 121)","sulphur butterfly, sulfur butterfly"
+ILSVRC2012_val_00049741,n03697007,"(0, 151)","(499, 374)","lumbermill, sawmill"
+ILSVRC2012_val_00049740,n02536864,"(119, 167)","(420, 342)","coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch"
+ILSVRC2012_val_00049739,n02325366,"(151, 126)","(287, 225)","wood rabbit, cottontail, cottontail rabbit"
+ILSVRC2012_val_00049738,n02641379,"(91, 161)","(131, 427)","gar, garfish, garpike, billfish, Lepisosteus osseus"
+ILSVRC2012_val_00049737,n02747177,"(146, 23)","(323, 283)","ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin"
+ILSVRC2012_val_00049736,n02927161,"(37, 1)","(497, 374)","butcher shop, meat market"
+ILSVRC2012_val_00049735,n02124075,"(213, 170)","(382, 320)",Egyptian cat
+ILSVRC2012_val_00049734,n02797295,"(0, 9)","(270, 374)","barrow, garden cart, lawn cart, wheelbarrow"
+ILSVRC2012_val_00049733,n04286575,"(39, 216)","(85, 292)","spotlight, spot"
+ILSVRC2012_val_00049732,n01698640,"(76, 105)","(499, 288)","American alligator, Alligator mississipiensis"
+ILSVRC2012_val_00049731,n02114548,"(2, 82)","(380, 332)","white wolf, Arctic wolf, Canis lupus tundrarum"
+ILSVRC2012_val_00049730,n02108915,"(31, 128)","(331, 445)",French bulldog
+ILSVRC2012_val_00049729,n03538406,"(71, 281)","(356, 491)","horse cart, horse-cart"
+ILSVRC2012_val_00049728,n04485082,"(60, 13)","(297, 467)",tripod
+ILSVRC2012_val_00049727,n02536864,"(134, 5)","(386, 374)","coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch"
+ILSVRC2012_val_00049726,n02074367,"(142, 108)","(498, 306)","dugong, Dugong dugon"
+ILSVRC2012_val_00049725,n02106030,"(1, 2)","(498, 373)",collie
+ILSVRC2012_val_00049724,n02808304,"(0, 1)","(373, 498)",bath towel
+ILSVRC2012_val_00049723,n01744401,"(0, 160)","(336, 341)","rock python, rock snake, Python sebae"
+ILSVRC2012_val_00049722,n02167151,"(121, 4)","(431, 312)","ground beetle, carabid beetle"
+ILSVRC2012_val_00049721,n02814860,"(46, 50)","(237, 374)","beacon, lighthouse, beacon light, pharos"
+ILSVRC2012_val_00049720,n09421951,"(0, 191)","(570, 329)","sandbar, sand bar"
+ILSVRC2012_val_00049719,n02105056,"(175, 268)","(306, 465)",groenendael
+ILSVRC2012_val_00049718,n04266014,"(258, 167)","(273, 200)",space shuttle
+ILSVRC2012_val_00049717,n04367480,"(260, 70)","(412, 379)","swab, swob, mop"
+ILSVRC2012_val_00049716,n09229709,"(269, 77)","(349, 153)",bubble
+ILSVRC2012_val_00049715,n02113712,"(1, 83)","(333, 498)",miniature poodle
+ILSVRC2012_val_00049714,n02894605,"(57, 244)","(499, 295)","breakwater, groin, groyne, mole, bulwark, seawall, jetty"
+ILSVRC2012_val_00049713,n04525305,"(0, 3)","(261, 498)",vending machine
+ILSVRC2012_val_00049712,n01443537,"(120, 40)","(194, 141)","goldfish, Carassius auratus"
+ILSVRC2012_val_00049711,n02011460,"(46, 57)","(338, 450)",bittern
+ILSVRC2012_val_00049710,n07720875,"(21, 168)","(392, 394)",bell pepper
+ILSVRC2012_val_00049709,n03649909,"(60, 16)","(451, 358)","lawn mower, mower"
+ILSVRC2012_val_00049708,n04070727,"(136, 71)","(272, 387)","refrigerator, icebox"
+ILSVRC2012_val_00049707,n04081281,"(0, 1)","(499, 332)","restaurant, eating house, eating place, eatery"
+ILSVRC2012_val_00049706,n02361337,"(50, 17)","(436, 467)",marmot
+ILSVRC2012_val_00049705,n03710637,"(155, 98)","(304, 243)",maillot
+ILSVRC2012_val_00049704,n02415577,"(0, 0)","(438, 334)","bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis"
+ILSVRC2012_val_00049703,n01667114,"(102, 59)","(428, 243)",mud turtle
+ILSVRC2012_val_00049702,n07614500,"(141, 293)","(233, 355)","ice cream, icecream"
+ILSVRC2012_val_00049701,n04254120,"(7, 1)","(373, 498)",soap dispenser
+ILSVRC2012_val_00049700,n04037443,"(0, 170)","(388, 280)","racer, race car, racing car"
+ILSVRC2012_val_00049699,n03720891,"(104, 10)","(204, 325)",maraca
+ILSVRC2012_val_00049698,n02906734,"(57, 115)","(125, 498)",broom
+ILSVRC2012_val_00049697,n07873807,"(241, 347)","(452, 444)","pizza, pizza pie"
+ILSVRC2012_val_00049696,n02655020,"(4, 15)","(468, 374)","puffer, pufferfish, blowfish, globefish"
+ILSVRC2012_val_00049695,n04509417,"(152, 296)","(193, 413)","unicycle, monocycle"
+ILSVRC2012_val_00049694,n02793495,"(42, 76)","(419, 297)",barn
+ILSVRC2012_val_00049693,n03935335,"(77, 77)","(307, 348)","piggy bank, penny bank"
+ILSVRC2012_val_00049692,n02825657,"(191, 27)","(284, 300)","bell cote, bell cot"
+ILSVRC2012_val_00049691,n03127747,"(18, 38)","(497, 410)",crash helmet
+ILSVRC2012_val_00049690,n02823428,"(206, 1)","(499, 303)",beer bottle
+ILSVRC2012_val_00049689,n03014705,"(65, 84)","(424, 380)",chest
+ILSVRC2012_val_00049688,n12985857,"(58, 64)","(354, 399)",coral fungus
+ILSVRC2012_val_00049687,n03998194,"(35, 75)","(441, 374)","prayer rug, prayer mat"
+ILSVRC2012_val_00049686,n01985128,"(5, 32)","(322, 380)","crayfish, crawfish, crawdad, crawdaddy"
+ILSVRC2012_val_00049685,n07590611,"(34, 0)","(462, 342)","hot pot, hotpot"
+ILSVRC2012_val_00049684,n02328150,"(8, 211)","(172, 391)","Angora, Angora rabbit"
+ILSVRC2012_val_00049683,n03255030,"(127, 323)","(211, 393)",dumbbell
+ILSVRC2012_val_00049682,n01819313,"(42, 26)","(355, 436)","sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita"
+ILSVRC2012_val_00049681,n04409515,"(231, 241)","(256, 270)",tennis ball
+ILSVRC2012_val_00049680,n03942813,"(224, 90)","(280, 149)",ping-pong ball
+ILSVRC2012_val_00049679,n01917289,"(105, 59)","(463, 361)",brain coral
+ILSVRC2012_val_00049678,n03717622,"(3, 2)","(491, 497)",manhole cover
+ILSVRC2012_val_00049677,n07760859,"(135, 107)","(374, 302)",custard apple
+ILSVRC2012_val_00049676,n04141076,"(193, 128)","(233, 306)","sax, saxophone"
+ILSVRC2012_val_00049675,n04285008,"(50, 182)","(335, 397)","sports car, sport car"
+ILSVRC2012_val_00049674,n03785016,"(21, 16)","(467, 291)",moped
+ILSVRC2012_val_00049673,n02808440,"(0, 301)","(414, 470)","bathtub, bathing tub, bath, tub"
+ILSVRC2012_val_00049672,n02099712,"(43, 36)","(321, 498)",Labrador retriever
+ILSVRC2012_val_00049671,n02965783,"(98, 22)","(420, 273)",car mirror
+ILSVRC2012_val_00049670,n02966193,"(78, 118)","(494, 364)","carousel, carrousel, merry-go-round, roundabout, whirligig"
+ILSVRC2012_val_00049669,n01601694,"(285, 213)","(382, 288)","water ouzel, dipper"
+ILSVRC2012_val_00049668,n04486054,"(27, 0)","(469, 320)",triumphal arch
+ILSVRC2012_val_00049667,n02093859,"(0, 0)","(492, 331)",Kerry blue terrier
+ILSVRC2012_val_00049666,n04599235,"(16, 27)","(355, 482)","wool, woolen, woollen"
+ILSVRC2012_val_00049665,n01806143,"(27, 241)","(366, 358)",peacock
+ILSVRC2012_val_00049664,n02676566,"(150, 185)","(491, 370)",acoustic guitar
+ILSVRC2012_val_00049663,n04335435,"(134, 126)","(376, 259)","streetcar, tram, tramcar, trolley, trolley car"
+ILSVRC2012_val_00049662,n04344873,"(0, 106)","(373, 482)","studio couch, day bed"
+ILSVRC2012_val_00049661,n01985128,"(1, 1)","(499, 319)","crayfish, crawfish, crawdad, crawdaddy"
+ILSVRC2012_val_00049660,n04467665,"(22, 1)","(467, 389)","trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi"
+ILSVRC2012_val_00049659,n04265275,"(3, 2)","(495, 373)",space heater
+ILSVRC2012_val_00049658,n03014705,"(18, 20)","(486, 489)",chest
+ILSVRC2012_val_00049657,n01985128,"(137, 129)","(279, 256)","crayfish, crawfish, crawdad, crawdaddy"
+ILSVRC2012_val_00049656,n04286575,"(135, 212)","(176, 383)","spotlight, spot"
+ILSVRC2012_val_00049655,n03791053,"(55, 98)","(276, 283)","motor scooter, scooter"
+ILSVRC2012_val_00049654,n02109961,"(297, 36)","(499, 374)","Eskimo dog, husky"
+ILSVRC2012_val_00049653,n02097658,"(150, 185)","(355, 374)","silky terrier, Sydney silky"
+ILSVRC2012_val_00049652,n01688243,"(191, 124)","(262, 257)","frilled lizard, Chlamydosaurus kingi"
+ILSVRC2012_val_00049651,n13044778,"(116, 48)","(409, 308)",earthstar
+ILSVRC2012_val_00049650,n02112706,"(2, 61)","(417, 374)",Brabancon griffon
+ILSVRC2012_val_00049649,n02869837,"(20, 0)","(471, 478)","bonnet, poke bonnet"
+ILSVRC2012_val_00049648,n03792972,"(43, 32)","(436, 330)",mountain tent
+ILSVRC2012_val_00049647,n04149813,"(100, 74)","(385, 280)",scoreboard
+ILSVRC2012_val_00049646,n01667114,"(28, 58)","(743, 960)",mud turtle
+ILSVRC2012_val_00049645,n03944341,"(162, 121)","(248, 374)",pinwheel
+ILSVRC2012_val_00049644,n13040303,"(155, 47)","(334, 390)","stinkhorn, carrion fungus"
+ILSVRC2012_val_00049643,n02114855,"(72, 34)","(113, 129)","coyote, prairie wolf, brush wolf, Canis latrans"
+ILSVRC2012_val_00049642,n02102177,"(13, 20)","(372, 488)",Welsh springer spaniel
+ILSVRC2012_val_00049641,n02791270,"(80, 56)","(319, 321)",barbershop
+ILSVRC2012_val_00049640,n02089973,"(14, 15)","(386, 307)",English foxhound
+ILSVRC2012_val_00049639,n01622779,"(102, 56)","(259, 451)","great grey owl, great gray owl, Strix nebulosa"
+ILSVRC2012_val_00049638,n02229544,"(174, 64)","(353, 300)",cricket
+ILSVRC2012_val_00049637,n01641577,"(30, 109)","(498, 372)","bullfrog, Rana catesbeiana"
+ILSVRC2012_val_00049636,n02441942,"(120, 148)","(219, 231)",weasel
+ILSVRC2012_val_00049635,n01689811,"(172, 91)","(388, 218)",alligator lizard
+ILSVRC2012_val_00049634,n03785016,"(79, 10)","(477, 374)",moped
+ILSVRC2012_val_00049633,n03089624,"(0, 0)","(373, 498)","confectionery, confectionary, candy store"
+ILSVRC2012_val_00049632,n04550184,"(23, 52)","(1597, 2275)","wardrobe, closet, press"
+ILSVRC2012_val_00049631,n02129604,"(18, 115)","(378, 538)","tiger, Panthera tigris"
+ILSVRC2012_val_00049630,n03000247,"(42, 26)","(604, 714)","chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour"
+ILSVRC2012_val_00049629,n02117135,"(70, 30)","(436, 598)","hyena, hyaena"
+ILSVRC2012_val_00049628,n02704792,"(63, 100)","(206, 190)","amphibian, amphibious vehicle"
+ILSVRC2012_val_00049627,n02111129,"(23, 45)","(461, 464)",Leonberg
+ILSVRC2012_val_00049626,n10565667,"(157, 45)","(387, 353)",scuba diver
+ILSVRC2012_val_00049625,n03729826,"(224, 142)","(274, 321)",matchstick
+ILSVRC2012_val_00049624,n02206856,"(131, 293)","(194, 410)",bee
+ILSVRC2012_val_00049623,n02815834,"(66, 24)","(406, 339)",beaker
+ILSVRC2012_val_00049622,n07565083,"(0, 0)","(373, 498)",menu
+ILSVRC2012_val_00049621,n01872401,"(192, 122)","(339, 223)","echidna, spiny anteater, anteater"
+ILSVRC2012_val_00049620,n03109150,"(1, 22)","(234, 217)","corkscrew, bottle screw"
+ILSVRC2012_val_00049619,n02892201,"(20, 57)","(453, 295)","brass, memorial tablet, plaque"
+ILSVRC2012_val_00049618,n02443114,"(150, 101)","(334, 342)","polecat, fitch, foulmart, foumart, Mustela putorius"
+ILSVRC2012_val_00049617,n01443537,"(79, 147)","(397, 261)","goldfish, Carassius auratus"
+ILSVRC2012_val_00049616,n04023962,"(56, 91)","(332, 493)","punching bag, punch bag, punching ball, punchball"
+ILSVRC2012_val_00049615,n03180011,"(11, 234)","(424, 766)",desktop computer
+ILSVRC2012_val_00049614,n02107142,"(1, 22)","(469, 469)","Doberman, Doberman pinscher"
+ILSVRC2012_val_00049613,n02133161,"(31, 19)","(290, 397)","American black bear, black bear, Ursus americanus, Euarctos americanus"
+ILSVRC2012_val_00049612,n03930630,"(11, 40)","(486, 348)","pickup, pickup truck"
+ILSVRC2012_val_00049611,n02167151,"(18, 78)","(553, 388)","ground beetle, carabid beetle"
+ILSVRC2012_val_00049610,n04266014,"(85, 4)","(277, 302)",space shuttle
+ILSVRC2012_val_00049609,n01737021,"(40, 52)","(478, 348)",water snake
+ILSVRC2012_val_00049608,n03355925,"(220, 33)","(305, 343)","flagpole, flagstaff"
+ILSVRC2012_val_00049607,n07248320,"(27, 32)","(367, 473)","book jacket, dust cover, dust jacket, dust wrapper"
+ILSVRC2012_val_00049606,n07753592,"(11, 37)","(391, 308)",banana
+ILSVRC2012_val_00049605,n02389026,"(136, 3)","(430, 498)",sorrel
+ILSVRC2012_val_00049604,n02088364,"(1, 116)","(362, 374)",beagle
+ILSVRC2012_val_00049603,n02486410,"(13, 42)","(290, 498)",baboon
+ILSVRC2012_val_00049602,n01695060,"(2, 72)","(469, 374)","Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis"
+ILSVRC2012_val_00049601,n03666591,"(157, 57)","(260, 428)","lighter, light, igniter, ignitor"
+ILSVRC2012_val_00049600,n03920288,"(66, 73)","(388, 318)",Petri dish
+ILSVRC2012_val_00049599,n02782093,"(41, 29)","(259, 305)",balloon
+ILSVRC2012_val_00049598,n01980166,"(139, 42)","(499, 270)",fiddler crab
+ILSVRC2012_val_00049597,n03792972,"(8, 42)","(448, 315)",mountain tent
+ILSVRC2012_val_00049596,n03085013,"(52, 72)","(402, 309)","computer keyboard, keypad"
+ILSVRC2012_val_00049595,n01797886,"(56, 102)","(192, 450)","ruffed grouse, partridge, Bonasa umbellus"
+ILSVRC2012_val_00049594,n04542943,"(47, 48)","(493, 344)",waffle iron
+ILSVRC2012_val_00049593,n03495258,"(58, 77)","(300, 480)",harp
+ILSVRC2012_val_00049592,n07754684,"(171, 142)","(247, 322)","jackfruit, jak, jack"
+ILSVRC2012_val_00049591,n02794156,"(5, 0)","(482, 464)",barometer
+ILSVRC2012_val_00049590,n03482405,"(48, 70)","(452, 242)",hamper
+ILSVRC2012_val_00049589,n02091467,"(99, 24)","(382, 374)","Norwegian elkhound, elkhound"
+ILSVRC2012_val_00049588,n04254777,"(340, 128)","(472, 334)",sock
+ILSVRC2012_val_00049587,n04153751,"(43, 11)","(84, 36)",screw
+ILSVRC2012_val_00049586,n02100735,"(8, 36)","(742, 499)",English setter
+ILSVRC2012_val_00049585,n01443537,"(69, 65)","(418, 280)","goldfish, Carassius auratus"
+ILSVRC2012_val_00049584,n01806143,"(125, 103)","(262, 361)",peacock
+ILSVRC2012_val_00049583,n04482393,"(278, 245)","(425, 442)","tricycle, trike, velocipede"
+ILSVRC2012_val_00049582,n04069434,"(145, 48)","(206, 110)",reflex camera
+ILSVRC2012_val_00049581,n02415577,"(0, 86)","(432, 371)","bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis"
+ILSVRC2012_val_00049580,n03218198,"(79, 169)","(131, 233)","dogsled, dog sled, dog sleigh"
+ILSVRC2012_val_00049579,n03045698,"(227, 5)","(452, 314)",cloak
+ILSVRC2012_val_00049578,n02165105,"(20, 51)","(465, 487)",tiger beetle
+ILSVRC2012_val_00049577,n02606052,"(142, 89)","(728, 757)","rock beauty, Holocanthus tricolor"
+ILSVRC2012_val_00049576,n02317335,"(110, 131)","(257, 253)","starfish, sea star"
+ILSVRC2012_val_00049575,n02687172,"(0, 322)","(499, 374)","aircraft carrier, carrier, flattop, attack aircraft carrier"
+ILSVRC2012_val_00049574,n02108000,"(45, 16)","(149, 127)",EntleBucher
+ILSVRC2012_val_00049573,n03786901,"(0, 0)","(445, 297)",mortar
+ILSVRC2012_val_00049572,n02687172,"(34, 77)","(498, 408)","aircraft carrier, carrier, flattop, attack aircraft carrier"
+ILSVRC2012_val_00049571,n04404412,"(177, 86)","(406, 233)","television, television system"
+ILSVRC2012_val_00049570,n02108089,"(10, 68)","(499, 374)",boxer
+ILSVRC2012_val_00049569,n03250847,"(67, 226)","(314, 452)",drumstick
+ILSVRC2012_val_00049568,n01530575,"(88, 152)","(282, 265)","brambling, Fringilla montifringilla"
+ILSVRC2012_val_00049567,n04482393,"(30, 158)","(255, 358)","tricycle, trike, velocipede"
+ILSVRC2012_val_00049566,n04597913,"(70, 160)","(428, 256)",wooden spoon
+ILSVRC2012_val_00049565,n03781244,"(0, 29)","(498, 399)",monastery
+ILSVRC2012_val_00049564,n04485082,"(166, 39)","(338, 269)",tripod
+ILSVRC2012_val_00049563,n04560804,"(0, 136)","(128, 310)",water jug
+ILSVRC2012_val_00049562,n02415577,"(104, 64)","(354, 332)","bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis"
+ILSVRC2012_val_00049561,n04254777,"(19, 0)","(499, 332)",sock
+ILSVRC2012_val_00049560,n02643566,"(6, 6)","(491, 305)",lionfish
+ILSVRC2012_val_00049559,n04367480,"(187, 11)","(458, 781)","swab, swob, mop"
+ILSVRC2012_val_00049558,n02098413,"(163, 83)","(499, 311)","Lhasa, Lhasa apso"
+ILSVRC2012_val_00049557,n03759954,"(35, 225)","(112, 498)","microphone, mike"
+ILSVRC2012_val_00049556,n02963159,"(31, 73)","(302, 458)",cardigan
+ILSVRC2012_val_00049555,n13133613,"(344, 60)","(471, 446)","ear, spike, capitulum"
+ILSVRC2012_val_00049554,n03532672,"(213, 417)","(236, 461)","hook, claw"
+ILSVRC2012_val_00049553,n01843383,"(31, 79)","(499, 374)",toucan
+ILSVRC2012_val_00049552,n02930766,"(77, 154)","(437, 327)","cab, hack, taxi, taxicab"
+ILSVRC2012_val_00049551,n04596742,"(2, 41)","(496, 495)",wok
+ILSVRC2012_val_00049550,n04596742,"(97, 266)","(211, 310)",wok
+ILSVRC2012_val_00049549,n09332890,"(0, 3)","(498, 245)","lakeside, lakeshore"
+ILSVRC2012_val_00049548,n02825657,"(233, 225)","(278, 278)","bell cote, bell cot"
+ILSVRC2012_val_00049547,n07880968,"(42, 0)","(496, 374)",burrito
+ILSVRC2012_val_00049546,n04548280,"(237, 102)","(294, 133)",wall clock
+ILSVRC2012_val_00049545,n02442845,"(315, 222)","(490, 291)",mink
+ILSVRC2012_val_00049544,n03485407,"(180, 103)","(1252, 903)","hand-held computer, hand-held microcomputer"
+ILSVRC2012_val_00049543,n02981792,"(207, 63)","(475, 271)",catamaran
+ILSVRC2012_val_00049542,n01749939,"(204, 2)","(499, 273)",green mamba
+ILSVRC2012_val_00049541,n01755581,"(152, 82)","(499, 374)","diamondback, diamondback rattlesnake, Crotalus adamanteus"
+ILSVRC2012_val_00049540,n03763968,"(141, 4)","(312, 334)",military uniform
+ILSVRC2012_val_00049539,n04357314,"(48, 92)","(298, 333)","sunscreen, sunblock, sun blocker"
+ILSVRC2012_val_00049538,n03658185,"(259, 88)","(450, 360)","letter opener, paper knife, paperknife"
+ILSVRC2012_val_00049537,n04479046,"(78, 175)","(282, 475)",trench coat
+ILSVRC2012_val_00049536,n03954731,"(36, 42)","(763, 613)","plane, carpenter's plane, woodworking plane"
+ILSVRC2012_val_00049535,n01776313,"(18, 0)","(399, 279)",tick
+ILSVRC2012_val_00049534,n02116738,"(32, 8)","(493, 477)","African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus"
+ILSVRC2012_val_00049533,n04540053,"(205, 112)","(287, 199)",volleyball
+ILSVRC2012_val_00049532,n03814906,"(38, 45)","(428, 472)",necklace
+ILSVRC2012_val_00049531,n01614925,"(15, 12)","(377, 451)","bald eagle, American eagle, Haliaeetus leucocephalus"
+ILSVRC2012_val_00049530,n07697537,"(80, 161)","(305, 456)","hotdog, hot dog, red hot"
+ILSVRC2012_val_00049529,n03291819,"(35, 10)","(481, 319)",envelope
+ILSVRC2012_val_00049528,n04259630,"(0, 77)","(336, 353)",sombrero
+ILSVRC2012_val_00049527,n07584110,"(30, 0)","(489, 374)",consomme
+ILSVRC2012_val_00049526,n03759954,"(223, 27)","(499, 374)","microphone, mike"
+ILSVRC2012_val_00049525,n03930630,"(19, 45)","(488, 264)","pickup, pickup truck"
+ILSVRC2012_val_00049524,n13054560,"(42, 85)","(271, 329)",bolete
+ILSVRC2012_val_00049523,n02102040,"(26, 15)","(481, 367)","English springer, English springer spaniel"
+ILSVRC2012_val_00049522,n01914609,"(163, 109)","(384, 306)","sea anemone, anemone"
+ILSVRC2012_val_00049521,n02037110,"(57, 97)","(287, 308)","oystercatcher, oyster catcher"
+ILSVRC2012_val_00049520,n03876231,"(27, 372)","(83, 498)",paintbrush
+ILSVRC2012_val_00049519,n03447447,"(66, 0)","(308, 498)",gondola
+ILSVRC2012_val_00049518,n04259630,"(1, 20)","(195, 146)",sombrero
+ILSVRC2012_val_00049517,n02120079,"(187, 42)","(429, 382)","Arctic fox, white fox, Alopex lagopus"
+ILSVRC2012_val_00049516,n02088632,"(80, 55)","(298, 462)",bluetick
+ILSVRC2012_val_00049515,n01742172,"(1, 35)","(498, 436)","boa constrictor, Constrictor constrictor"
+ILSVRC2012_val_00049514,n02869837,"(88, 92)","(240, 300)","bonnet, poke bonnet"
+ILSVRC2012_val_00049513,n02442845,"(103, 100)","(402, 291)",mink
+ILSVRC2012_val_00049512,n04542943,"(0, 108)","(318, 374)",waffle iron
+ILSVRC2012_val_00049511,n02110341,"(175, 137)","(499, 374)","dalmatian, coach dog, carriage dog"
+ILSVRC2012_val_00049510,n02808440,"(3, 2)","(495, 495)","bathtub, bathing tub, bath, tub"
+ILSVRC2012_val_00049509,n04235860,"(22, 242)","(331, 498)",sleeping bag
+ILSVRC2012_val_00049508,n02317335,"(4, 0)","(355, 328)","starfish, sea star"
+ILSVRC2012_val_00049507,n03764736,"(105, 115)","(305, 396)",milk can
+ILSVRC2012_val_00049506,n03764736,"(42, 0)","(307, 483)",milk can
+ILSVRC2012_val_00049505,n03933933,"(2, 1)","(498, 374)",pier
+ILSVRC2012_val_00049504,n02321529,"(115, 30)","(384, 316)","sea cucumber, holothurian"
+ILSVRC2012_val_00049503,n02992529,"(40, 90)","(306, 351)","cellular telephone, cellular phone, cellphone, cell, mobile phone"
+ILSVRC2012_val_00049502,n03721384,"(1, 104)","(498, 371)","marimba, xylophone"
+ILSVRC2012_val_00049501,n03617480,"(60, 100)","(311, 498)",kimono
+ILSVRC2012_val_00049500,n12998815,"(98, 30)","(394, 356)",agaric
+ILSVRC2012_val_00049499,n02276258,"(55, 67)","(338, 315)",admiral
+ILSVRC2012_val_00049498,n02107574,"(141, 53)","(367, 360)",Greater Swiss Mountain dog
+ILSVRC2012_val_00049497,n07684084,"(300, 301)","(499, 374)",French loaf
+ILSVRC2012_val_00049496,n04277352,"(2, 112)","(396, 363)",spindle
+ILSVRC2012_val_00049495,n01704323,"(0, 46)","(453, 369)",triceratops
+ILSVRC2012_val_00049494,n02974003,"(68, 52)","(363, 318)",car wheel
+ILSVRC2012_val_00049493,n03495258,"(27, 37)","(186, 373)",harp
+ILSVRC2012_val_00049492,n03220513,"(110, 38)","(483, 292)",dome
+ILSVRC2012_val_00049491,n03481172,"(4, 123)","(114, 376)",hammer
+ILSVRC2012_val_00049490,n07747607,"(43, 0)","(402, 373)",orange
+ILSVRC2012_val_00049489,n02815834,"(0, 1)","(332, 452)",beaker
+ILSVRC2012_val_00049488,n02009229,"(48, 51)","(339, 488)","little blue heron, Egretta caerulea"
+ILSVRC2012_val_00049487,n04429376,"(267, 226)","(307, 290)",throne
+ILSVRC2012_val_00049486,n03742115,"(100, 1)","(205, 191)","medicine chest, medicine cabinet"
+ILSVRC2012_val_00049485,n02093256,"(47, 49)","(460, 315)","Staffordshire bullterrier, Staffordshire bull terrier"
+ILSVRC2012_val_00049484,n02111129,"(25, 56)","(342, 274)",Leonberg
+ILSVRC2012_val_00049483,n02127052,"(3, 38)","(226, 355)","lynx, catamount"
+ILSVRC2012_val_00049482,n03089624,"(0, 4)","(498, 373)","confectionery, confectionary, candy store"
+ILSVRC2012_val_00049481,n04116512,"(215, 227)","(247, 258)","rubber eraser, rubber, pencil eraser"
+ILSVRC2012_val_00049480,n02018795,"(7, 57)","(476, 498)",bustard
+ILSVRC2012_val_00049479,n03691459,"(9, 24)","(177, 312)","loudspeaker, speaker, speaker unit, loudspeaker system, speaker system"
+ILSVRC2012_val_00049478,n01773797,"(0, 11)","(455, 401)","garden spider, Aranea diademata"
+ILSVRC2012_val_00049477,n02129165,"(278, 41)","(614, 399)","lion, king of beasts, Panthera leo"
+ILSVRC2012_val_00049476,n03871628,"(333, 205)","(490, 405)",packet
+ILSVRC2012_val_00049475,n03095699,"(95, 33)","(236, 137)","container ship, containership, container vessel"
+ILSVRC2012_val_00049474,n03400231,"(0, 53)","(297, 498)","frying pan, frypan, skillet"
+ILSVRC2012_val_00049473,n04179913,"(5, 15)","(499, 345)",sewing machine
+ILSVRC2012_val_00049472,n07697313,"(23, 2)","(499, 374)",cheeseburger
+ILSVRC2012_val_00049471,n02128385,"(66, 0)","(284, 234)","leopard, Panthera pardus"
+ILSVRC2012_val_00049470,n04044716,"(0, 41)","(499, 374)","radio telescope, radio reflector"
+ILSVRC2012_val_00049469,n02802426,"(185, 61)","(217, 100)",basketball
+ILSVRC2012_val_00049468,n03535780,"(2, 2)","(207, 56)","horizontal bar, high bar"
+ILSVRC2012_val_00049467,n04442312,"(327, 276)","(400, 353)",toaster
+ILSVRC2012_val_00049466,n01774750,"(15, 8)","(498, 337)",tarantula
+ILSVRC2012_val_00049465,n02804414,"(92, 38)","(401, 374)",bassinet
+ILSVRC2012_val_00049464,n03992509,"(5, 124)","(337, 279)",potter's wheel
+ILSVRC2012_val_00049463,n02808304,"(5, 9)","(490, 474)",bath towel
+ILSVRC2012_val_00049462,n02488291,"(43, 120)","(328, 279)",langur
+ILSVRC2012_val_00049461,n01917289,"(64, 121)","(403, 374)",brain coral
+ILSVRC2012_val_00049460,n02279972,"(65, 25)","(299, 290)","monarch, monarch butterfly, milkweed butterfly, Danaus plexippus"
+ILSVRC2012_val_00049459,n04200800,"(0, 0)","(499, 374)","shoe shop, shoe-shop, shoe store"
+ILSVRC2012_val_00049458,n03196217,"(23, 306)","(295, 436)",digital clock
+ILSVRC2012_val_00049457,n07697313,"(138, 134)","(347, 354)",cheeseburger
+ILSVRC2012_val_00049456,n02910353,"(235, 8)","(427, 218)",buckle
+ILSVRC2012_val_00049455,n04152593,"(14, 1)","(499, 388)","screen, CRT screen"
+ILSVRC2012_val_00049454,n04389033,"(10, 8)","(484, 351)","tank, army tank, armored combat vehicle, armoured combat vehicle"
+ILSVRC2012_val_00049453,n04548362,"(19, 166)","(463, 359)","wallet, billfold, notecase, pocketbook"
+ILSVRC2012_val_00049452,n04208210,"(219, 205)","(353, 320)",shovel
+ILSVRC2012_val_00049451,n04026417,"(0, 22)","(498, 408)",purse
+ILSVRC2012_val_00049450,n04200800,"(285, 245)","(470, 478)","shoe shop, shoe-shop, shoe store"
+ILSVRC2012_val_00049449,n03924679,"(21, 21)","(798, 598)",photocopier
+ILSVRC2012_val_00049448,n01748264,"(92, 97)","(781, 463)","Indian cobra, Naja naja"
+ILSVRC2012_val_00049447,n04523525,"(86, 16)","(396, 309)",vault
+ILSVRC2012_val_00049446,n07892512,"(101, 195)","(401, 426)",red wine
+ILSVRC2012_val_00049445,n04371774,"(260, 85)","(318, 263)",swing
+ILSVRC2012_val_00049444,n02009229,"(116, 66)","(367, 475)","little blue heron, Egretta caerulea"
+ILSVRC2012_val_00049443,n02607072,"(26, 45)","(420, 430)",anemone fish
+ILSVRC2012_val_00049442,n02268853,"(44, 44)","(374, 320)",damselfly
+ILSVRC2012_val_00049441,n03887697,"(18, 31)","(322, 258)",paper towel
+ILSVRC2012_val_00049440,n01978455,"(101, 29)","(481, 229)","rock crab, Cancer irroratus"
+ILSVRC2012_val_00049439,n03781244,"(3, 0)","(499, 374)",monastery
+ILSVRC2012_val_00049438,n02727426,"(30, 196)","(335, 498)","apiary, bee house"
+ILSVRC2012_val_00049437,n04335435,"(274, 123)","(392, 339)","streetcar, tram, tramcar, trolley, trolley car"
+ILSVRC2012_val_00049436,n11939491,"(61, 23)","(356, 340)",daisy
+ILSVRC2012_val_00049435,n02109047,"(76, 53)","(486, 336)",Great Dane
+ILSVRC2012_val_00049434,n03982430,"(13, 88)","(456, 374)","pool table, billiard table, snooker table"
+ILSVRC2012_val_00049433,n04483307,"(458, 3)","(1116, 1080)",trimaran
+ILSVRC2012_val_00049432,n04476259,"(20, 4)","(482, 459)",tray
+ILSVRC2012_val_00049431,n03794056,"(84, 27)","(348, 311)",mousetrap
+ILSVRC2012_val_00049430,n02704792,"(136, 64)","(624, 339)","amphibian, amphibious vehicle"
+ILSVRC2012_val_00049429,n04239074,"(1, 1)","(187, 490)",sliding door
+ILSVRC2012_val_00049428,n03942813,"(137, 277)","(164, 304)",ping-pong ball
+ILSVRC2012_val_00049427,n04285008,"(28, 109)","(483, 317)","sports car, sport car"
+ILSVRC2012_val_00049426,n02138441,"(227, 48)","(355, 358)","meerkat, mierkat"
+ILSVRC2012_val_00049425,n02504013,"(1, 9)","(242, 165)","Indian elephant, Elephas maximus"
+ILSVRC2012_val_00049424,n04398044,"(43, 9)","(762, 504)",teapot
+ILSVRC2012_val_00049423,n04154565,"(261, 199)","(499, 276)",screwdriver
+ILSVRC2012_val_00049422,n03891251,"(18, 91)","(371, 398)",park bench
+ILSVRC2012_val_00049421,n02087046,"(117, 9)","(499, 332)",toy terrier
+ILSVRC2012_val_00049420,n01695060,"(75, 130)","(499, 271)","Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis"
+ILSVRC2012_val_00049419,n04019541,"(19, 295)","(36, 309)","puck, hockey puck"
+ILSVRC2012_val_00049418,n02279972,"(15, 33)","(457, 306)","monarch, monarch butterfly, milkweed butterfly, Danaus plexippus"
+ILSVRC2012_val_00049417,n02107683,"(110, 66)","(491, 370)",Bernese mountain dog
+ILSVRC2012_val_00049416,n01847000,"(139, 111)","(422, 248)",drake
+ILSVRC2012_val_00049415,n03347037,"(37, 33)","(381, 486)","fire screen, fireguard"
+ILSVRC2012_val_00049414,n02086910,"(149, 87)","(363, 310)",papillon
+ILSVRC2012_val_00049413,n02807133,"(92, 96)","(258, 235)","bathing cap, swimming cap"
+ILSVRC2012_val_00049412,n04152593,"(46, 35)","(453, 388)","screen, CRT screen"
+ILSVRC2012_val_00049411,n01990800,"(186, 153)","(289, 221)",isopod
+ILSVRC2012_val_00049410,n01944390,"(103, 160)","(468, 308)",snail
+ILSVRC2012_val_00049409,n04599235,"(36, 1)","(402, 291)","wool, woolen, woollen"
+ILSVRC2012_val_00049408,n02096051,"(55, 38)","(328, 445)","Airedale, Airedale terrier"
+ILSVRC2012_val_00049407,n07718747,"(58, 49)","(461, 295)","artichoke, globe artichoke"
+ILSVRC2012_val_00049406,n04404412,"(155, 87)","(466, 295)","television, television system"
+ILSVRC2012_val_00049405,n02086240,"(149, 72)","(465, 309)",Shih-Tzu
+ILSVRC2012_val_00049404,n02490219,"(129, 102)","(277, 321)",marmoset
+ILSVRC2012_val_00049403,n03662601,"(119, 130)","(796, 657)",lifeboat
+ILSVRC2012_val_00049402,n03763968,"(184, 116)","(271, 399)",military uniform
+ILSVRC2012_val_00049401,n04542943,"(200, 91)","(416, 295)",waffle iron
+ILSVRC2012_val_00049400,n04409515,"(122, 80)","(363, 322)",tennis ball
+ILSVRC2012_val_00049399,n02536864,"(395, 154)","(499, 281)","coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch"
+ILSVRC2012_val_00049398,n04418357,"(43, 174)","(456, 374)","theater curtain, theatre curtain"
+ILSVRC2012_val_00049397,n02110806,"(43, 3)","(430, 498)",basenji
+ILSVRC2012_val_00049396,n12768682,"(217, 206)","(250, 246)","buckeye, horse chestnut, conker"
+ILSVRC2012_val_00049395,n01704323,"(16, 102)","(417, 355)",triceratops
+ILSVRC2012_val_00049394,n03400231,"(171, 118)","(425, 220)","frying pan, frypan, skillet"
+ILSVRC2012_val_00049393,n04591713,"(338, 21)","(485, 382)",wine bottle
+ILSVRC2012_val_00049392,n04152593,"(1, 44)","(254, 328)","screen, CRT screen"
+ILSVRC2012_val_00049391,n04111531,"(0, 213)","(498, 330)",rotisserie
+ILSVRC2012_val_00049390,n02504013,"(15, 51)","(152, 139)","Indian elephant, Elephas maximus"
+ILSVRC2012_val_00049389,n02128757,"(14, 3)","(499, 332)","snow leopard, ounce, Panthera uncia"
+ILSVRC2012_val_00049388,n03134739,"(247, 262)","(263, 278)",croquet ball
+ILSVRC2012_val_00049387,n04125021,"(8, 2)","(423, 550)",safe
+ILSVRC2012_val_00049386,n04277352,"(31, 45)","(432, 302)",spindle
+ILSVRC2012_val_00049385,n04070727,"(77, 7)","(275, 498)","refrigerator, icebox"
+ILSVRC2012_val_00049384,n02177972,"(113, 92)","(412, 338)",weevil
+ILSVRC2012_val_00049383,n04367480,"(117, 141)","(444, 374)","swab, swob, mop"
+ILSVRC2012_val_00049382,n02835271,"(166, 142)","(338, 252)","bicycle-built-for-two, tandem bicycle, tandem"
+ILSVRC2012_val_00049381,n03976657,"(239, 68)","(250, 361)",pole
+ILSVRC2012_val_00049380,n03935335,"(103, 26)","(394, 354)","piggy bank, penny bank"
+ILSVRC2012_val_00049379,n07880968,"(28, 40)","(373, 437)",burrito
+ILSVRC2012_val_00049378,n03478589,"(67, 176)","(314, 291)",half track
+ILSVRC2012_val_00049377,n02480495,"(0, 33)","(207, 311)","orangutan, orang, orangutang, Pongo pygmaeus"
+ILSVRC2012_val_00049376,n04347754,"(2, 1)","(389, 245)","submarine, pigboat, sub, U-boat"
+ILSVRC2012_val_00049375,n09332890,"(0, 281)","(499, 374)","lakeside, lakeshore"
+ILSVRC2012_val_00049374,n02092339,"(246, 185)","(300, 343)",Weimaraner
+ILSVRC2012_val_00049373,n01697457,"(23, 134)","(482, 293)","African crocodile, Nile crocodile, Crocodylus niloticus"
+ILSVRC2012_val_00049372,n02319095,"(161, 77)","(409, 324)",sea urchin
+ILSVRC2012_val_00049371,n03649909,"(32, 104)","(262, 229)","lawn mower, mower"
+ILSVRC2012_val_00049370,n07742313,"(110, 222)","(226, 318)",Granny Smith
+ILSVRC2012_val_00049369,n01950731,"(137, 111)","(325, 323)","sea slug, nudibranch"
+ILSVRC2012_val_00049368,n03929855,"(73, 51)","(230, 460)",pickelhaube
+ILSVRC2012_val_00049367,n02747177,"(149, 89)","(364, 291)","ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin"
+ILSVRC2012_val_00049366,n07584110,"(35, 101)","(348, 318)",consomme
+ILSVRC2012_val_00049365,n04118538,"(116, 90)","(173, 135)",rugby ball
+ILSVRC2012_val_00049364,n02095314,"(118, 2)","(351, 269)",wire-haired fox terrier
+ILSVRC2012_val_00049363,n04532670,"(152, 145)","(340, 224)",viaduct
+ILSVRC2012_val_00049362,n04008634,"(30, 49)","(475, 357)","projectile, missile"
+ILSVRC2012_val_00049361,n07583066,"(223, 59)","(355, 151)",guacamole
+ILSVRC2012_val_00049360,n03937543,"(160, 200)","(251, 369)",pill bottle
+ILSVRC2012_val_00049359,n04542943,"(46, 4)","(430, 332)",waffle iron
+ILSVRC2012_val_00049358,n07583066,"(240, 157)","(386, 335)",guacamole
+ILSVRC2012_val_00049357,n03902125,"(256, 233)","(308, 347)","pay-phone, pay-station"
+ILSVRC2012_val_00049356,n02109525,"(150, 77)","(499, 374)","Saint Bernard, St Bernard"
+ILSVRC2012_val_00049355,n03290653,"(91, 73)","(550, 408)",entertainment center
+ILSVRC2012_val_00049354,n02088364,"(51, 62)","(417, 374)",beagle
+ILSVRC2012_val_00049353,n01807496,"(269, 162)","(310, 225)",partridge
+ILSVRC2012_val_00049352,n01855672,"(0, 30)","(388, 498)",goose
+ILSVRC2012_val_00049351,n02106550,"(25, 21)","(266, 477)",Rottweiler
+ILSVRC2012_val_00049350,n01630670,"(13, 112)","(597, 432)","common newt, Triturus vulgaris"
+ILSVRC2012_val_00049349,n03814639,"(62, 207)","(285, 497)",neck brace
+ILSVRC2012_val_00049348,n03903868,"(72, 9)","(446, 416)","pedestal, plinth, footstall"
+ILSVRC2012_val_00049347,n02128925,"(112, 16)","(499, 303)","jaguar, panther, Panthera onca, Felis onca"
+ILSVRC2012_val_00049346,n03630383,"(82, 96)","(299, 355)","lab coat, laboratory coat"
+ILSVRC2012_val_00049345,n02132136,"(313, 84)","(898, 553)","brown bear, bruin, Ursus arctos"
+ILSVRC2012_val_00049344,n02106550,"(0, 99)","(353, 373)",Rottweiler
+ILSVRC2012_val_00049343,n09428293,"(1, 303)","(499, 374)","seashore, coast, seacoast, sea-coast"
+ILSVRC2012_val_00049342,n03781244,"(0, 30)","(499, 374)",monastery
+ILSVRC2012_val_00049341,n03459775,"(20, 142)","(499, 336)","grille, radiator grille"
+ILSVRC2012_val_00049340,n04311174,"(66, 149)","(165, 311)",steel drum
+ILSVRC2012_val_00049339,n03720891,"(9, 16)","(315, 171)",maraca
+ILSVRC2012_val_00049338,n02012849,"(81, 20)","(436, 455)",crane
+ILSVRC2012_val_00049337,n04584207,"(25, 0)","(373, 360)",wig
+ILSVRC2012_val_00049336,n04476259,"(1, 24)","(497, 415)",tray
+ILSVRC2012_val_00049335,n04019541,"(358, 447)","(387, 465)","puck, hockey puck"
+ILSVRC2012_val_00049334,n02110806,"(50, 86)","(312, 410)",basenji
+ILSVRC2012_val_00049333,n01698640,"(0, 0)","(398, 498)","American alligator, Alligator mississipiensis"
+ILSVRC2012_val_00049332,n02412080,"(170, 49)","(499, 332)","ram, tup"
+ILSVRC2012_val_00049331,n01877812,"(180, 81)","(499, 306)","wallaby, brush kangaroo"
+ILSVRC2012_val_00049330,n03793489,"(358, 251)","(408, 306)","mouse, computer mouse"
+ILSVRC2012_val_00049329,n04604644,"(1, 168)","(499, 364)","worm fence, snake fence, snake-rail fence, Virginia fence"
+ILSVRC2012_val_00049328,n02692877,"(49, 43)","(432, 188)","airship, dirigible"
+ILSVRC2012_val_00049327,n02111277,"(116, 8)","(499, 374)","Newfoundland, Newfoundland dog"
+ILSVRC2012_val_00049326,n02102318,"(76, 4)","(436, 374)","cocker spaniel, English cocker spaniel, cocker"
+ILSVRC2012_val_00049325,n07584110,"(1, 94)","(475, 374)",consomme
+ILSVRC2012_val_00049324,n02091032,"(34, 41)","(337, 361)",Italian greyhound
+ILSVRC2012_val_00049323,n02480855,"(94, 16)","(498, 373)","gorilla, Gorilla gorilla"
+ILSVRC2012_val_00049322,n03590841,"(119, 2)","(376, 326)",jack-o'-lantern
+ILSVRC2012_val_00049321,n03109150,"(55, 0)","(374, 206)","corkscrew, bottle screw"
+ILSVRC2012_val_00049320,n02403003,"(89, 123)","(165, 224)",ox
+ILSVRC2012_val_00049319,n03207743,"(9, 115)","(499, 374)","dishrag, dishcloth"
+ILSVRC2012_val_00049318,n03617480,"(92, 87)","(260, 482)",kimono
+ILSVRC2012_val_00049317,n02795169,"(161, 120)","(276, 212)","barrel, cask"
+ILSVRC2012_val_00049316,n01644900,"(217, 147)","(307, 214)","tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui"
+ILSVRC2012_val_00049315,n02002556,"(224, 53)","(408, 302)","white stork, Ciconia ciconia"
+ILSVRC2012_val_00049314,n02865351,"(26, 0)","(232, 411)","bolo tie, bolo, bola tie, bola"
+ILSVRC2012_val_00049313,n01817953,"(62, 1)","(433, 373)","African grey, African gray, Psittacus erithacus"
+ILSVRC2012_val_00049312,n04350905,"(107, 62)","(295, 476)","suit, suit of clothes"
+ILSVRC2012_val_00049311,n01742172,"(52, 0)","(499, 374)","boa constrictor, Constrictor constrictor"
+ILSVRC2012_val_00049310,n07715103,"(0, 6)","(479, 332)",cauliflower
+ILSVRC2012_val_00049309,n07892512,"(86, 43)","(189, 301)",red wine
+ILSVRC2012_val_00049308,n02939185,"(85, 18)","(345, 230)","caldron, cauldron"
+ILSVRC2012_val_00049307,n03461385,"(0, 0)","(349, 262)","grocery store, grocery, food market, market"
+ILSVRC2012_val_00049306,n03956157,"(105, 52)","(498, 353)",planetarium
+ILSVRC2012_val_00049305,n03759954,"(226, 372)","(290, 498)","microphone, mike"
+ILSVRC2012_val_00049304,n03794056,"(134, 184)","(391, 374)",mousetrap
+ILSVRC2012_val_00049303,n02137549,"(138, 80)","(258, 233)",mongoose
+ILSVRC2012_val_00049302,n02701002,"(0, 21)","(456, 374)",ambulance
+ILSVRC2012_val_00049301,n01955084,"(76, 89)","(496, 350)","chiton, coat-of-mail shell, sea cradle, polyplacophore"
+ILSVRC2012_val_00049300,n03837869,"(0, 0)","(222, 374)",obelisk
+ILSVRC2012_val_00049299,n02965783,"(171, 99)","(263, 160)",car mirror
+ILSVRC2012_val_00049298,n02119022,"(41, 2)","(422, 351)","red fox, Vulpes vulpes"
+ILSVRC2012_val_00049297,n02894605,"(134, 273)","(499, 374)","breakwater, groin, groyne, mole, bulwark, seawall, jetty"
+ILSVRC2012_val_00049296,n02114367,"(117, 58)","(294, 544)","timber wolf, grey wolf, gray wolf, Canis lupus"
+ILSVRC2012_val_00049295,n02804414,"(0, 1)","(318, 478)",bassinet
+ILSVRC2012_val_00049294,n04296562,"(1, 1)","(499, 374)",stage
+ILSVRC2012_val_00049293,n02787622,"(160, 37)","(298, 493)",banjo
+ILSVRC2012_val_00049292,n03544143,"(75, 19)","(246, 351)",hourglass
+ILSVRC2012_val_00049291,n02110185,"(0, 0)","(272, 374)",Siberian husky
+ILSVRC2012_val_00049290,n04235860,"(14, 34)","(471, 300)",sleeping bag
+ILSVRC2012_val_00049289,n04201297,"(22, 116)","(132, 325)",shoji
+ILSVRC2012_val_00049288,n02356798,"(34, 1)","(285, 183)","fox squirrel, eastern fox squirrel, Sciurus niger"
+ILSVRC2012_val_00049287,n01644900,"(69, 134)","(206, 238)","tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui"
+ILSVRC2012_val_00049286,n02009912,"(52, 81)","(368, 266)","American egret, great white heron, Egretta albus"
+ILSVRC2012_val_00049285,n02107908,"(0, 10)","(392, 373)",Appenzeller
+ILSVRC2012_val_00049284,n03538406,"(10, 148)","(499, 332)","horse cart, horse-cart"
+ILSVRC2012_val_00049283,n04591157,"(157, 91)","(242, 447)",Windsor tie
+ILSVRC2012_val_00049282,n02966687,"(122, 106)","(154, 190)","carpenter's kit, tool kit"
+ILSVRC2012_val_00049281,n02097130,"(75, 27)","(431, 403)",giant schnauzer
+ILSVRC2012_val_00049280,n02326432,"(292, 190)","(684, 499)",hare
+ILSVRC2012_val_00049279,n02123159,"(0, 55)","(413, 327)",tiger cat
+ILSVRC2012_val_00049278,n02403003,"(205, 109)","(337, 247)",ox
+ILSVRC2012_val_00049277,n04330267,"(272, 235)","(444, 426)",stove
+ILSVRC2012_val_00049276,n03065424,"(47, 1)","(280, 498)","coil, spiral, volute, whorl, helix"
+ILSVRC2012_val_00049275,n04200800,"(0, 0)","(372, 498)","shoe shop, shoe-shop, shoe store"
+ILSVRC2012_val_00049274,n02325366,"(13, 34)","(296, 308)","wood rabbit, cottontail, cottontail rabbit"
+ILSVRC2012_val_00049273,n03255030,"(31, 17)","(247, 220)",dumbbell
+ILSVRC2012_val_00049272,n02105251,"(47, 10)","(252, 353)",briard
+ILSVRC2012_val_00049271,n02865351,"(50, 37)","(541, 400)","bolo tie, bolo, bola tie, bola"
+ILSVRC2012_val_00049270,n09229709,"(15, 112)","(109, 220)",bubble
+ILSVRC2012_val_00049269,n04476259,"(19, 110)","(481, 440)",tray
+ILSVRC2012_val_00049268,n02504013,"(13, 96)","(209, 283)","Indian elephant, Elephas maximus"
+ILSVRC2012_val_00049267,n04067472,"(200, 6)","(483, 250)",reel
+ILSVRC2012_val_00049266,n01985128,"(157, 135)","(376, 267)","crayfish, crawfish, crawdad, crawdaddy"
+ILSVRC2012_val_00049265,n01817953,"(61, 37)","(494, 430)","African grey, African gray, Psittacus erithacus"
+ILSVRC2012_val_00049264,n04350905,"(123, 87)","(260, 365)","suit, suit of clothes"
+ILSVRC2012_val_00049263,n02091467,"(126, 83)","(386, 374)","Norwegian elkhound, elkhound"
+ILSVRC2012_val_00049262,n02119022,"(401, 59)","(981, 766)","red fox, Vulpes vulpes"
+ILSVRC2012_val_00049261,n04557648,"(186, 87)","(336, 453)",water bottle
+ILSVRC2012_val_00049260,n01667114,"(234, 148)","(368, 217)",mud turtle
+ILSVRC2012_val_00049259,n02172182,"(238, 99)","(340, 199)",dung beetle
+ILSVRC2012_val_00049258,n04252225,"(45, 104)","(458, 322)","snowplow, snowplough"
+ILSVRC2012_val_00049257,n03095699,"(2, 97)","(499, 193)","container ship, containership, container vessel"
+ILSVRC2012_val_00049256,n04485082,"(5, 64)","(468, 313)",tripod
+ILSVRC2012_val_00049255,n03874599,"(298, 66)","(555, 417)",padlock
+ILSVRC2012_val_00049254,n03874599,"(48, 26)","(349, 307)",padlock
+ILSVRC2012_val_00049253,n01498041,"(0, 47)","(496, 305)",stingray
+ILSVRC2012_val_00049252,n04540053,"(227, 5)","(269, 49)",volleyball
+ILSVRC2012_val_00049251,n04330267,"(4, 20)","(490, 370)",stove
+ILSVRC2012_val_00049250,n02100735,"(137, 377)","(676, 968)",English setter
+ILSVRC2012_val_00049249,n13037406,"(218, 58)","(480, 373)",gyromitra
+ILSVRC2012_val_00049248,n03075370,"(181, 1)","(499, 206)",combination lock
+ILSVRC2012_val_00049247,n03134739,"(286, 70)","(348, 130)",croquet ball
+ILSVRC2012_val_00049246,n12768682,"(293, 93)","(409, 240)","buckeye, horse chestnut, conker"
+ILSVRC2012_val_00049245,n02111129,"(75, 49)","(499, 390)",Leonberg
+ILSVRC2012_val_00049244,n01629819,"(139, 3)","(297, 281)","European fire salamander, Salamandra salamandra"
+ILSVRC2012_val_00049243,n04264628,"(2, 71)","(498, 332)",space bar
+ILSVRC2012_val_00049242,n02111889,"(153, 73)","(318, 332)","Samoyed, Samoyede"
+ILSVRC2012_val_00049241,n04487081,"(0, 29)","(431, 258)","trolleybus, trolley coach, trackless trolley"
+ILSVRC2012_val_00049240,n04208210,"(68, 58)","(166, 348)",shovel
+ILSVRC2012_val_00049239,n02101006,"(116, 72)","(286, 374)",Gordon setter
+ILSVRC2012_val_00049238,n02909870,"(115, 304)","(185, 405)","bucket, pail"
+ILSVRC2012_val_00049237,n02840245,"(21, 102)","(487, 426)","binder, ring-binder"
+ILSVRC2012_val_00049236,n02865351,"(0, 75)","(638, 367)","bolo tie, bolo, bola tie, bola"
+ILSVRC2012_val_00049235,n01795545,"(51, 156)","(322, 467)",black grouse
+ILSVRC2012_val_00049234,n03617480,"(81, 97)","(315, 478)",kimono
+ILSVRC2012_val_00049233,n03804744,"(358, 70)","(394, 286)",nail
+ILSVRC2012_val_00049232,n04591713,"(0, 0)","(91, 366)",wine bottle
+ILSVRC2012_val_00049231,n03680355,"(202, 134)","(368, 470)",Loafer
+ILSVRC2012_val_00049230,n03691459,"(133, 89)","(186, 146)","loudspeaker, speaker, speaker unit, loudspeaker system, speaker system"
+ILSVRC2012_val_00049229,n02089078,"(53, 94)","(244, 226)",black-and-tan coonhound
+ILSVRC2012_val_00049228,n02817516,"(43, 38)","(117, 115)","bearskin, busby, shako"
+ILSVRC2012_val_00049227,n02037110,"(30, 89)","(396, 328)","oystercatcher, oyster catcher"
+ILSVRC2012_val_00049226,n04554684,"(1, 52)","(323, 373)","washer, automatic washer, washing machine"
+ILSVRC2012_val_00049225,n03769881,"(78, 122)","(463, 293)",minibus
+ILSVRC2012_val_00049224,n02009229,"(75, 159)","(467, 416)","little blue heron, Egretta caerulea"
+ILSVRC2012_val_00049223,n02939185,"(195, 223)","(308, 313)","caldron, cauldron"
+ILSVRC2012_val_00049222,n02777292,"(272, 239)","(312, 383)","balance beam, beam"
+ILSVRC2012_val_00049221,n01986214,"(172, 139)","(345, 267)",hermit crab
+ILSVRC2012_val_00049220,n02443114,"(274, 36)","(1022, 533)","polecat, fitch, foulmart, foumart, Mustela putorius"
+ILSVRC2012_val_00049219,n07697537,"(44, 217)","(187, 374)","hotdog, hot dog, red hot"
+ILSVRC2012_val_00049218,n02102040,"(40, 183)","(161, 298)","English springer, English springer spaniel"
+ILSVRC2012_val_00049217,n01882714,"(127, 11)","(354, 350)","koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus"
+ILSVRC2012_val_00049216,n02607072,"(193, 133)","(331, 301)",anemone fish
+ILSVRC2012_val_00049215,n02113023,"(116, 56)","(405, 347)","Pembroke, Pembroke Welsh corgi"
+ILSVRC2012_val_00049214,n04542943,"(164, 24)","(499, 320)",waffle iron
+ILSVRC2012_val_00049213,n03887697,"(52, 141)","(122, 201)",paper towel
+ILSVRC2012_val_00049212,n02804414,"(251, 161)","(462, 357)",bassinet
+ILSVRC2012_val_00049211,n07579787,"(0, 9)","(499, 374)",plate
+ILSVRC2012_val_00049210,n03803284,"(223, 200)","(390, 335)",muzzle
+ILSVRC2012_val_00049209,n03240683,"(172, 106)","(303, 262)","drilling platform, offshore rig"
+ILSVRC2012_val_00049208,n04487394,"(222, 151)","(269, 206)",trombone
+ILSVRC2012_val_00049207,n03018349,"(22, 28)","(341, 460)","china cabinet, china closet"
+ILSVRC2012_val_00049206,n02092002,"(133, 127)","(434, 353)","Scottish deerhound, deerhound"
+ILSVRC2012_val_00049205,n03868863,"(211, 134)","(403, 375)",oxygen mask
+ILSVRC2012_val_00049204,n03720891,"(15, 100)","(400, 268)",maraca
+ILSVRC2012_val_00049203,n01798484,"(186, 53)","(258, 126)","prairie chicken, prairie grouse, prairie fowl"
+ILSVRC2012_val_00049202,n02410509,"(301, 174)","(446, 310)",bison
+ILSVRC2012_val_00049201,n02268443,"(178, 101)","(394, 303)","dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"
+ILSVRC2012_val_00049200,n02111500,"(33, 0)","(271, 341)",Great Pyrenees
+ILSVRC2012_val_00049199,n03709823,"(101, 0)","(381, 374)","mailbag, postbag"
+ILSVRC2012_val_00049198,n02089078,"(182, 17)","(419, 374)",black-and-tan coonhound
+ILSVRC2012_val_00049197,n03995372,"(72, 35)","(445, 351)",power drill
+ILSVRC2012_val_00049196,n02092339,"(78, 23)","(446, 342)",Weimaraner
+ILSVRC2012_val_00049195,n12985857,"(63, 1)","(436, 364)",coral fungus
+ILSVRC2012_val_00049194,n02489166,"(133, 200)","(219, 406)","proboscis monkey, Nasalis larvatus"
+ILSVRC2012_val_00049193,n02091032,"(179, 54)","(475, 220)",Italian greyhound
+ILSVRC2012_val_00049192,n02834397,"(121, 0)","(420, 335)",bib
+ILSVRC2012_val_00049191,n01930112,"(35, 268)","(326, 442)","nematode, nematode worm, roundworm"
+ILSVRC2012_val_00049190,n02098413,"(182, 32)","(428, 373)","Lhasa, Lhasa apso"
+ILSVRC2012_val_00049189,n02102973,"(93, 127)","(468, 504)",Irish water spaniel
+ILSVRC2012_val_00049188,n03109150,"(42, 38)","(335, 177)","corkscrew, bottle screw"
+ILSVRC2012_val_00049187,n01693334,"(38, 2)","(455, 296)","green lizard, Lacerta viridis"
+ILSVRC2012_val_00049186,n02892201,"(8, 1)","(389, 314)","brass, memorial tablet, plaque"
+ILSVRC2012_val_00049185,n04370456,"(5, 133)","(318, 498)",sweatshirt
+ILSVRC2012_val_00049184,n04347754,"(0, 0)","(350, 374)","submarine, pigboat, sub, U-boat"
+ILSVRC2012_val_00049183,n03457902,"(180, 200)","(335, 326)","greenhouse, nursery, glasshouse"
+ILSVRC2012_val_00049182,n01749939,"(75, 140)","(280, 332)",green mamba
+ILSVRC2012_val_00049181,n01514668,"(0, 24)","(396, 398)",cock
+ILSVRC2012_val_00049180,n01984695,"(0, 55)","(393, 413)","spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish"
+ILSVRC2012_val_00049179,n03871628,"(46, 2)","(398, 476)",packet
+ILSVRC2012_val_00049178,n03630383,"(75, 164)","(280, 385)","lab coat, laboratory coat"
+ILSVRC2012_val_00049177,n03769881,"(16, 45)","(462, 325)",minibus
+ILSVRC2012_val_00049176,n02346627,"(22, 31)","(379, 426)","porcupine, hedgehog"
+ILSVRC2012_val_00049175,n02106662,"(0, 6)","(462, 372)","German shepherd, German shepherd dog, German police dog, alsatian"
+ILSVRC2012_val_00049174,n15075141,"(1, 0)","(377, 365)","toilet tissue, toilet paper, bathroom tissue"
+ILSVRC2012_val_00049173,n04133789,"(38, 6)","(397, 301)",sandal
+ILSVRC2012_val_00049172,n03782006,"(246, 58)","(499, 266)",monitor
+ILSVRC2012_val_00049171,n04252225,"(227, 171)","(459, 259)","snowplow, snowplough"
+ILSVRC2012_val_00049170,n02058221,"(47, 27)","(380, 446)","albatross, mollymawk"
+ILSVRC2012_val_00049169,n07873807,"(6, 333)","(461, 498)","pizza, pizza pie"
+ILSVRC2012_val_00049168,n02174001,"(108, 79)","(336, 346)",rhinoceros beetle
+ILSVRC2012_val_00049167,n01728572,"(297, 0)","(498, 373)","thunder snake, worm snake, Carphophis amoenus"
+ILSVRC2012_val_00049166,n01494475,"(0, 78)","(441, 227)","hammerhead, hammerhead shark"
+ILSVRC2012_val_00049165,n03673027,"(19, 54)","(480, 231)","liner, ocean liner"
+ILSVRC2012_val_00049164,n07753592,"(66, 48)","(470, 345)",banana
+ILSVRC2012_val_00049163,n07836838,"(43, 31)","(451, 372)","chocolate sauce, chocolate syrup"
+ILSVRC2012_val_00049162,n01744401,"(1, 108)","(260, 463)","rock python, rock snake, Python sebae"
+ILSVRC2012_val_00049161,n02484975,"(78, 100)","(451, 389)","guenon, guenon monkey"
+ILSVRC2012_val_00049160,n03259280,"(210, 167)","(279, 218)",Dutch oven
+ILSVRC2012_val_00049159,n02085620,"(95, 22)","(419, 374)",Chihuahua
+ILSVRC2012_val_00049158,n04133789,"(100, 138)","(208, 465)",sandal
+ILSVRC2012_val_00049157,n01917289,"(139, 10)","(405, 294)",brain coral
+ILSVRC2012_val_00049156,n04560804,"(62, 208)","(378, 433)",water jug
+ILSVRC2012_val_00049155,n03903868,"(162, 1)","(301, 254)","pedestal, plinth, footstall"
+ILSVRC2012_val_00049154,n07590611,"(0, 26)","(499, 374)","hot pot, hotpot"
+ILSVRC2012_val_00049153,n04179913,"(1, 0)","(495, 372)",sewing machine
+ILSVRC2012_val_00049152,n02219486,"(55, 19)","(394, 373)","ant, emmet, pismire"
+ILSVRC2012_val_00049151,n02009912,"(121, 101)","(310, 386)","American egret, great white heron, Egretta albus"
+ILSVRC2012_val_00049150,n03179701,"(55, 18)","(491, 325)",desk
+ILSVRC2012_val_00049149,n03788365,"(1, 0)","(373, 497)",mosquito net
+ILSVRC2012_val_00049148,n02776631,"(2, 166)","(311, 322)","bakery, bakeshop, bakehouse"
+ILSVRC2012_val_00049147,n02110627,"(11, 4)","(446, 457)","affenpinscher, monkey pinscher, monkey dog"
+ILSVRC2012_val_00049146,n02105056,"(66, 80)","(485, 373)",groenendael
+ILSVRC2012_val_00049145,n03637318,"(62, 128)","(286, 467)","lampshade, lamp shade"
+ILSVRC2012_val_00049144,n02091635,"(52, 59)","(339, 467)","otterhound, otter hound"
+ILSVRC2012_val_00049143,n01728920,"(128, 50)","(424, 323)","ringneck snake, ring-necked snake, ring snake"
+ILSVRC2012_val_00049142,n04456115,"(370, 101)","(419, 210)",torch
+ILSVRC2012_val_00049141,n01592084,"(100, 88)","(494, 380)",chickadee
+ILSVRC2012_val_00049140,n03584829,"(317, 85)","(345, 219)","iron, smoothing iron"
+ILSVRC2012_val_00049139,n02100583,"(222, 80)","(420, 333)","vizsla, Hungarian pointer"
+ILSVRC2012_val_00049138,n04418357,"(277, 74)","(433, 333)","theater curtain, theatre curtain"
+ILSVRC2012_val_00049137,n03388043,"(419, 73)","(460, 236)",fountain
+ILSVRC2012_val_00049136,n02116738,"(91, 102)","(276, 325)","African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus"
+ILSVRC2012_val_00049135,n04204347,"(125, 46)","(498, 498)",shopping cart
+ILSVRC2012_val_00049134,n01775062,"(193, 0)","(516, 321)","wolf spider, hunting spider"
+ILSVRC2012_val_00049133,n02281406,"(120, 31)","(423, 320)","sulphur butterfly, sulfur butterfly"
+ILSVRC2012_val_00049132,n04458633,"(182, 59)","(310, 377)",totem pole
+ILSVRC2012_val_00049131,n03126707,"(240, 87)","(386, 374)",crane
+ILSVRC2012_val_00049130,n02100236,"(13, 2)","(192, 287)",German short-haired pointer
+ILSVRC2012_val_00049129,n02113186,"(20, 157)","(195, 222)","Cardigan, Cardigan Welsh corgi"
+ILSVRC2012_val_00049128,n03759954,"(180, 46)","(243, 237)","microphone, mike"
+ILSVRC2012_val_00049127,n03935335,"(10, 12)","(490, 487)","piggy bank, penny bank"
+ILSVRC2012_val_00049126,n02277742,"(210, 105)","(300, 217)","ringlet, ringlet butterfly"
+ILSVRC2012_val_00049125,n02120505,"(58, 109)","(200, 322)","grey fox, gray fox, Urocyon cinereoargenteus"
+ILSVRC2012_val_00049124,n02480495,"(87, 9)","(268, 105)","orangutan, orang, orangutang, Pongo pygmaeus"
+ILSVRC2012_val_00049123,n02749479,"(84, 0)","(382, 475)","assault rifle, assault gun"
+ILSVRC2012_val_00049122,n02749479,"(68, 53)","(451, 312)","assault rifle, assault gun"
+ILSVRC2012_val_00049121,n02807133,"(341, 205)","(363, 224)","bathing cap, swimming cap"
+ILSVRC2012_val_00049120,n02422699,"(255, 72)","(351, 316)","impala, Aepyceros melampus"
+ILSVRC2012_val_00049119,n01641577,"(132, 128)","(377, 284)","bullfrog, Rana catesbeiana"
+ILSVRC2012_val_00049118,n03018349,"(199, 15)","(389, 356)","china cabinet, china closet"
+ILSVRC2012_val_00049117,n03271574,"(31, 47)","(319, 475)","electric fan, blower"
+ILSVRC2012_val_00049116,n01682714,"(0, 12)","(430, 321)","American chameleon, anole, Anolis carolinensis"
+ILSVRC2012_val_00049115,n02113712,"(8, 0)","(459, 325)",miniature poodle
+ILSVRC2012_val_00049114,n04493381,"(63, 47)","(443, 300)","tub, vat"
+ILSVRC2012_val_00049113,n03670208,"(191, 168)","(356, 284)","limousine, limo"
+ILSVRC2012_val_00049112,n03920288,"(72, 152)","(299, 370)",Petri dish
+ILSVRC2012_val_00049111,n02488702,"(8, 8)","(238, 95)","colobus, colobus monkey"
+ILSVRC2012_val_00049110,n07697537,"(123, 282)","(371, 391)","hotdog, hot dog, red hot"
+ILSVRC2012_val_00049109,n04476259,"(15, 88)","(479, 277)",tray
+ILSVRC2012_val_00049108,n04235860,"(0, 12)","(318, 332)",sleeping bag
+ILSVRC2012_val_00049107,n01872401,"(100, 47)","(483, 294)","echidna, spiny anteater, anteater"
+ILSVRC2012_val_00049106,n02979186,"(104, 87)","(408, 284)",cassette player
+ILSVRC2012_val_00049105,n01924916,"(21, 78)","(332, 377)","flatworm, platyhelminth"
+ILSVRC2012_val_00049104,n04265275,"(123, 0)","(400, 339)",space heater
+ILSVRC2012_val_00049103,n01632458,"(168, 285)","(271, 446)","spotted salamander, Ambystoma maculatum"
+ILSVRC2012_val_00049102,n03721384,"(0, 234)","(499, 374)","marimba, xylophone"
+ILSVRC2012_val_00049101,n03706229,"(160, 33)","(308, 192)",magnetic compass
+ILSVRC2012_val_00049100,n03127925,"(93, 207)","(185, 277)",crate
+ILSVRC2012_val_00049099,n04081281,"(4, 2)","(498, 331)","restaurant, eating house, eating place, eatery"
+ILSVRC2012_val_00049098,n02788148,"(57, 59)","(638, 497)","bannister, banister, balustrade, balusters, handrail"
+ILSVRC2012_val_00049097,n02690373,"(16, 80)","(483, 245)",airliner
+ILSVRC2012_val_00049096,n07930864,"(131, 59)","(385, 267)",cup
+ILSVRC2012_val_00049095,n07697313,"(3, 101)","(488, 460)",cheeseburger
+ILSVRC2012_val_00049094,n02840245,"(24, 0)","(271, 299)","binder, ring-binder"
+ILSVRC2012_val_00049093,n01843383,"(37, 3)","(493, 496)",toucan
+ILSVRC2012_val_00049092,n02894605,"(0, 176)","(499, 373)","breakwater, groin, groyne, mole, bulwark, seawall, jetty"
+ILSVRC2012_val_00049091,n04275548,"(63, 47)","(448, 374)","spider web, spider's web"
+ILSVRC2012_val_00049090,n01518878,"(117, 205)","(301, 461)","ostrich, Struthio camelus"
+ILSVRC2012_val_00049089,n02095314,"(90, 26)","(337, 430)",wire-haired fox terrier
+ILSVRC2012_val_00049088,n12768682,"(124, 14)","(499, 359)","buckeye, horse chestnut, conker"
+ILSVRC2012_val_00049087,n04118776,"(1, 29)","(372, 373)","rule, ruler"
+ILSVRC2012_val_00049086,n03457902,"(13, 68)","(321, 498)","greenhouse, nursery, glasshouse"
+ILSVRC2012_val_00049085,n02268443,"(69, 22)","(377, 356)","dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"
+ILSVRC2012_val_00049084,n06785654,"(0, 170)","(499, 374)","crossword puzzle, crossword"
+ILSVRC2012_val_00049083,n02948072,"(79, 9)","(223, 444)","candle, taper, wax light"
+ILSVRC2012_val_00049082,n02389026,"(9, 119)","(446, 421)",sorrel
+ILSVRC2012_val_00049081,n02445715,"(0, 8)","(373, 375)","skunk, polecat, wood pussy"
+ILSVRC2012_val_00049080,n07716358,"(313, 138)","(403, 188)","zucchini, courgette"
+ILSVRC2012_val_00049079,n02017213,"(0, 42)","(351, 498)","European gallinule, Porphyrio porphyrio"
+ILSVRC2012_val_00049078,n03770439,"(0, 33)","(119, 280)","miniskirt, mini"
+ILSVRC2012_val_00049077,n02006656,"(98, 111)","(362, 350)",spoonbill
+ILSVRC2012_val_00049076,n04461696,"(144, 102)","(371, 285)","tow truck, tow car, wrecker"
+ILSVRC2012_val_00049075,n04418357,"(109, 1)","(499, 359)","theater curtain, theatre curtain"
+ILSVRC2012_val_00049074,n04009552,"(29, 37)","(466, 340)",projector
+ILSVRC2012_val_00049073,n04229816,"(202, 122)","(268, 205)",ski mask
+ILSVRC2012_val_00049072,n01687978,"(43, 100)","(472, 254)",agama
+ILSVRC2012_val_00049071,n02281787,"(146, 108)","(626, 476)","lycaenid, lycaenid butterfly"
+ILSVRC2012_val_00049070,n02769748,"(159, 213)","(189, 259)","backpack, back pack, knapsack, packsack, rucksack, haversack"
+ILSVRC2012_val_00049069,n02966687,"(43, 219)","(415, 384)","carpenter's kit, tool kit"
+ILSVRC2012_val_00049068,n04141327,"(4, 14)","(568, 141)",scabbard
+ILSVRC2012_val_00049067,n03954731,"(24, 24)","(676, 498)","plane, carpenter's plane, woodworking plane"
+ILSVRC2012_val_00049066,n02793495,"(190, 110)","(380, 186)",barn
+ILSVRC2012_val_00049065,n01629819,"(104, 28)","(206, 457)","European fire salamander, Salamandra salamandra"
+ILSVRC2012_val_00049064,n02105641,"(34, 34)","(378, 351)","Old English sheepdog, bobtail"
+ILSVRC2012_val_00049063,n02097130,"(79, 43)","(479, 329)",giant schnauzer
+ILSVRC2012_val_00049062,n04592741,"(367, 180)","(499, 190)",wing
+ILSVRC2012_val_00049061,n02669723,"(325, 173)","(498, 498)","academic gown, academic robe, judge's robe"
+ILSVRC2012_val_00049060,n03000247,"(42, 2)","(363, 388)","chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour"
+ILSVRC2012_val_00049059,n09421951,"(6, 191)","(494, 370)","sandbar, sand bar"
+ILSVRC2012_val_00049058,n03658185,"(102, 202)","(394, 275)","letter opener, paper knife, paperknife"
+ILSVRC2012_val_00049057,n03065424,"(23, 83)","(363, 346)","coil, spiral, volute, whorl, helix"
+ILSVRC2012_val_00049056,n01798484,"(76, 308)","(208, 431)","prairie chicken, prairie grouse, prairie fowl"
+ILSVRC2012_val_00049055,n03933933,"(244, 164)","(499, 286)",pier
+ILSVRC2012_val_00049054,n02788148,"(32, 49)","(399, 299)","bannister, banister, balustrade, balusters, handrail"
+ILSVRC2012_val_00049053,n03124043,"(33, 370)","(165, 495)",cowboy boot
+ILSVRC2012_val_00049052,n01872401,"(201, 133)","(308, 225)","echidna, spiny anteater, anteater"
+ILSVRC2012_val_00049051,n04239074,"(326, 77)","(392, 141)",sliding door
+ILSVRC2012_val_00049050,n02791124,"(17, 135)","(291, 487)",barber chair
+ILSVRC2012_val_00049049,n02708093,"(206, 137)","(841, 687)",analog clock
+ILSVRC2012_val_00049048,n03207941,"(1, 0)","(213, 158)","dishwasher, dish washer, dishwashing machine"
+ILSVRC2012_val_00049047,n07754684,"(66, 58)","(202, 215)","jackfruit, jak, jack"
+ILSVRC2012_val_00049046,n02111277,"(63, 70)","(384, 262)","Newfoundland, Newfoundland dog"
+ILSVRC2012_val_00049045,n04367480,"(108, 0)","(158, 293)","swab, swob, mop"
+ILSVRC2012_val_00049044,n02113978,"(211, 238)","(858, 766)",Mexican hairless
+ILSVRC2012_val_00049043,n02415577,"(76, 31)","(403, 313)","bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis"
+ILSVRC2012_val_00049042,n02219486,"(174, 0)","(1596, 912)","ant, emmet, pismire"
+ILSVRC2012_val_00049041,n02268853,"(205, 200)","(491, 319)",damselfly
+ILSVRC2012_val_00049040,n02108089,"(52, 135)","(287, 324)",boxer
+ILSVRC2012_val_00049039,n03538406,"(0, 146)","(224, 371)","horse cart, horse-cart"
+ILSVRC2012_val_00049038,n03188531,"(127, 355)","(203, 418)","diaper, nappy, napkin"
+ILSVRC2012_val_00049037,n04037443,"(340, 167)","(424, 196)","racer, race car, racing car"
+ILSVRC2012_val_00049036,n02093428,"(282, 103)","(483, 324)","American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+ILSVRC2012_val_00049035,n02797295,"(69, 142)","(392, 311)","barrow, garden cart, lawn cart, wheelbarrow"
+ILSVRC2012_val_00049034,n03777568,"(51, 18)","(463, 373)",Model T
+ILSVRC2012_val_00049033,n04336792,"(91, 45)","(231, 148)",stretcher
+ILSVRC2012_val_00049032,n03345487,"(30, 117)","(499, 348)","fire engine, fire truck"
+ILSVRC2012_val_00049031,n02840245,"(8, 44)","(260, 357)","binder, ring-binder"
+ILSVRC2012_val_00049030,n02346627,"(90, 54)","(396, 355)","porcupine, hedgehog"
+ILSVRC2012_val_00049029,n04116512,"(276, 173)","(321, 222)","rubber eraser, rubber, pencil eraser"
+ILSVRC2012_val_00049028,n04485082,"(75, 102)","(291, 498)",tripod
+ILSVRC2012_val_00049027,n02086079,"(107, 6)","(473, 291)","Pekinese, Pekingese, Peke"
+ILSVRC2012_val_00049026,n02871525,"(381, 161)","(499, 352)","bookshop, bookstore, bookstall"
+ILSVRC2012_val_00049025,n04350905,"(42, 122)","(345, 498)","suit, suit of clothes"
+ILSVRC2012_val_00049024,n02356798,"(104, 101)","(473, 228)","fox squirrel, eastern fox squirrel, Sciurus niger"
+ILSVRC2012_val_00049023,n04039381,"(40, 264)","(150, 338)","racket, racquet"
+ILSVRC2012_val_00049022,n02422106,"(248, 1)","(499, 334)",hartebeest
+ILSVRC2012_val_00049021,n03887697,"(81, 150)","(241, 517)",paper towel
+ILSVRC2012_val_00049020,n01910747,"(24, 241)","(193, 373)",jellyfish
+ILSVRC2012_val_00049019,n02483362,"(98, 0)","(284, 341)","gibbon, Hylobates lar"
+ILSVRC2012_val_00049018,n02129165,"(0, 0)","(235, 379)","lion, king of beasts, Panthera leo"
+ILSVRC2012_val_00049017,n01728572,"(199, 139)","(273, 278)","thunder snake, worm snake, Carphophis amoenus"
+ILSVRC2012_val_00049016,n02002556,"(53, 81)","(409, 498)","white stork, Ciconia ciconia"
+ILSVRC2012_val_00049015,n02090721,"(12, 30)","(285, 247)",Irish wolfhound
+ILSVRC2012_val_00049014,n03976467,"(109, 9)","(456, 404)","Polaroid camera, Polaroid Land camera"
+ILSVRC2012_val_00049013,n04074963,"(321, 31)","(401, 360)","remote control, remote"
+ILSVRC2012_val_00049012,n02666196,"(50, 270)","(980, 551)",abacus
+ILSVRC2012_val_00049011,n04347754,"(37, 74)","(495, 332)","submarine, pigboat, sub, U-boat"
+ILSVRC2012_val_00049010,n02100583,"(167, 0)","(363, 271)","vizsla, Hungarian pointer"
+ILSVRC2012_val_00049009,n03706229,"(162, 299)","(633, 587)",magnetic compass
+ILSVRC2012_val_00049008,n03481172,"(73, 118)","(498, 440)",hammer
+ILSVRC2012_val_00049007,n02437312,"(0, 40)","(466, 374)","Arabian camel, dromedary, Camelus dromedarius"
+ILSVRC2012_val_00049006,n04330267,"(129, 111)","(243, 233)",stove
+ILSVRC2012_val_00049005,n02808304,"(0, 2)","(396, 498)",bath towel
+ILSVRC2012_val_00049004,n02092002,"(135, 53)","(540, 380)","Scottish deerhound, deerhound"
+ILSVRC2012_val_00049003,n07831146,"(168, 102)","(359, 262)",carbonara
+ILSVRC2012_val_00049002,n03773504,"(122, 17)","(199, 498)",missile
+ILSVRC2012_val_00049001,n03792782,"(3, 190)","(93, 360)","mountain bike, all-terrain bike, off-roader"
+ILSVRC2012_val_00049000,n01491361,"(103, 26)","(396, 299)","tiger shark, Galeocerdo cuvieri"
+ILSVRC2012_val_00048999,n04118538,"(372, 193)","(412, 227)",rugby ball
+ILSVRC2012_val_00048998,n04065272,"(55, 12)","(432, 313)","recreational vehicle, RV, R.V."
+ILSVRC2012_val_00048997,n02114548,"(0, 71)","(331, 498)","white wolf, Arctic wolf, Canis lupus tundrarum"
+ILSVRC2012_val_00048996,n06785654,"(162, 0)","(498, 282)","crossword puzzle, crossword"
+ILSVRC2012_val_00048995,n01644373,"(12, 58)","(487, 367)","tree frog, tree-frog"
+ILSVRC2012_val_00048994,n03658185,"(51, 188)","(466, 228)","letter opener, paper knife, paperknife"
+ILSVRC2012_val_00048993,n04507155,"(225, 91)","(367, 173)",umbrella
+ILSVRC2012_val_00048992,n12267677,"(67, 210)","(182, 321)",acorn
+ILSVRC2012_val_00048991,n01667114,"(25, 0)","(499, 330)",mud turtle
+ILSVRC2012_val_00048990,n01773549,"(333, 126)","(825, 1068)","barn spider, Araneus cavaticus"
+ILSVRC2012_val_00048989,n02895154,"(0, 10)","(315, 498)","breastplate, aegis, egis"
+ILSVRC2012_val_00048988,n04147183,"(49, 5)","(241, 144)",schooner
+ILSVRC2012_val_00048987,n03868863,"(271, 136)","(360, 239)",oxygen mask
+ILSVRC2012_val_00048986,n03676483,"(56, 82)","(432, 208)","lipstick, lip rouge"
+ILSVRC2012_val_00048985,n03690938,"(375, 127)","(520, 500)",lotion
+ILSVRC2012_val_00048984,n04023962,"(112, 0)","(294, 435)","punching bag, punch bag, punching ball, punchball"
+ILSVRC2012_val_00048983,n07697537,"(83, 68)","(410, 176)","hotdog, hot dog, red hot"
+ILSVRC2012_val_00048982,n12057211,"(91, 60)","(257, 206)","yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+ILSVRC2012_val_00048981,n03995372,"(85, 1)","(499, 272)",power drill
+ILSVRC2012_val_00048980,n02109525,"(1, 43)","(446, 439)","Saint Bernard, St Bernard"
+ILSVRC2012_val_00048979,n02132136,"(120, 57)","(504, 390)","brown bear, bruin, Ursus arctos"
+ILSVRC2012_val_00048978,n01756291,"(1, 1)","(498, 328)","sidewinder, horned rattlesnake, Crotalus cerastes"
+ILSVRC2012_val_00048977,n03425413,"(138, 71)","(301, 480)","gas pump, gasoline pump, petrol pump, island dispenser"
+ILSVRC2012_val_00048976,n07565083,"(2, 4)","(483, 353)",menu
+ILSVRC2012_val_00048975,n11939491,"(295, 288)","(638, 549)",daisy
+ILSVRC2012_val_00048974,n02102480,"(400, 231)","(905, 615)",Sussex spaniel
+ILSVRC2012_val_00048973,n04493381,"(27, 0)","(487, 398)","tub, vat"
+ILSVRC2012_val_00048972,n02099849,"(76, 86)","(406, 374)",Chesapeake Bay retriever
+ILSVRC2012_val_00048971,n02115641,"(101, 74)","(322, 374)","dingo, warrigal, warragal, Canis dingo"
+ILSVRC2012_val_00048970,n04133789,"(215, 198)","(337, 289)",sandal
+ILSVRC2012_val_00048969,n01440764,"(108, 284)","(449, 462)","tench, Tinca tinca"
+ILSVRC2012_val_00048968,n04613696,"(75, 76)","(282, 267)",yurt
+ILSVRC2012_val_00048967,n03804744,"(193, 112)","(432, 236)",nail
+ILSVRC2012_val_00048966,n04579432,"(189, 89)","(784, 308)",whistle
+ILSVRC2012_val_00048965,n04127249,"(206, 165)","(253, 372)",safety pin
+ILSVRC2012_val_00048964,n02105505,"(9, 20)","(446, 370)",komondor
+ILSVRC2012_val_00048963,n02095570,"(161, 158)","(377, 278)",Lakeland terrier
+ILSVRC2012_val_00048962,n02281787,"(90, 149)","(445, 475)","lycaenid, lycaenid butterfly"
+ILSVRC2012_val_00048961,n03496892,"(33, 112)","(490, 301)","harvester, reaper"
+ILSVRC2012_val_00048960,n01614925,"(213, 106)","(357, 361)","bald eagle, American eagle, Haliaeetus leucocephalus"
+ILSVRC2012_val_00048959,n11939491,"(52, 168)","(241, 357)",daisy
+ILSVRC2012_val_00048958,n04442312,"(8, 120)","(339, 479)",toaster
+ILSVRC2012_val_00048957,n01729977,"(8, 6)","(373, 443)","green snake, grass snake"
+ILSVRC2012_val_00048956,n04517823,"(2, 1)","(472, 374)","vacuum, vacuum cleaner"
+ILSVRC2012_val_00048955,n02095314,"(31, 46)","(232, 323)",wire-haired fox terrier
+ILSVRC2012_val_00048954,n02493509,"(18, 204)","(297, 332)","titi, titi monkey"
+ILSVRC2012_val_00048953,n03876231,"(301, 172)","(380, 364)",paintbrush
+ILSVRC2012_val_00048952,n01514668,"(172, 116)","(340, 399)",cock
+ILSVRC2012_val_00048951,n02930766,"(240, 281)","(394, 440)","cab, hack, taxi, taxicab"
+ILSVRC2012_val_00048950,n02536864,"(59, 198)","(418, 300)","coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch"
+ILSVRC2012_val_00048949,n03742115,"(92, 0)","(317, 293)","medicine chest, medicine cabinet"
+ILSVRC2012_val_00048948,n02105162,"(186, 96)","(499, 263)",malinois
+ILSVRC2012_val_00048947,n03761084,"(91, 0)","(362, 235)","microwave, microwave oven"
+ILSVRC2012_val_00048946,n03857828,"(1, 0)","(497, 374)","oscilloscope, scope, cathode-ray oscilloscope, CRO"
+ILSVRC2012_val_00048945,n03938244,"(31, 29)","(394, 397)",pillow
+ILSVRC2012_val_00048944,n03680355,"(129, 22)","(448, 250)",Loafer
+ILSVRC2012_val_00048943,n01753488,"(0, 61)","(397, 405)","horned viper, cerastes, sand viper, horned asp, Cerastes cornutus"
+ILSVRC2012_val_00048942,n03197337,"(259, 4)","(481, 267)",digital watch
+ILSVRC2012_val_00048941,n04208210,"(253, 193)","(401, 326)",shovel
+ILSVRC2012_val_00048940,n02134084,"(60, 35)","(114, 89)","ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus"
+ILSVRC2012_val_00048939,n02483362,"(63, 23)","(286, 410)","gibbon, Hylobates lar"
+ILSVRC2012_val_00048938,n04153751,"(181, 174)","(346, 295)",screw
+ILSVRC2012_val_00048937,n07697537,"(1, 31)","(498, 338)","hotdog, hot dog, red hot"
+ILSVRC2012_val_00048936,n02894605,"(1, 117)","(498, 251)","breakwater, groin, groyne, mole, bulwark, seawall, jetty"
+ILSVRC2012_val_00048935,n03544143,"(107, 50)","(166, 166)",hourglass
+ILSVRC2012_val_00048934,n11939491,"(151, 24)","(657, 535)",daisy
+ILSVRC2012_val_00048933,n03445924,"(54, 135)","(343, 471)","golfcart, golf cart"
+ILSVRC2012_val_00048932,n02492660,"(131, 91)","(554, 476)","howler monkey, howler"
+ILSVRC2012_val_00048931,n04229816,"(126, 12)","(203, 100)",ski mask
+ILSVRC2012_val_00048930,n03937543,"(0, 0)","(498, 498)",pill bottle
+ILSVRC2012_val_00048929,n03016953,"(145, 14)","(479, 323)","chiffonier, commode"
+ILSVRC2012_val_00048928,n13054560,"(24, 72)","(256, 381)",bolete
+ILSVRC2012_val_00048927,n04204238,"(90, 88)","(366, 251)",shopping basket
+ILSVRC2012_val_00048926,n04579432,"(437, 398)","(1872, 1584)",whistle
+ILSVRC2012_val_00048925,n02090622,"(207, 65)","(481, 265)","borzoi, Russian wolfhound"
+ILSVRC2012_val_00048924,n01685808,"(20, 135)","(314, 458)","whiptail, whiptail lizard"
+ILSVRC2012_val_00048923,n04065272,"(2, 80)","(444, 262)","recreational vehicle, RV, R.V."
+ILSVRC2012_val_00048922,n02106550,"(0, 0)","(499, 374)",Rottweiler
+ILSVRC2012_val_00048921,n01983481,"(184, 11)","(418, 395)","American lobster, Northern lobster, Maine lobster, Homarus americanus"
+ILSVRC2012_val_00048920,n02536864,"(108, 202)","(208, 451)","coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch"
+ILSVRC2012_val_00048919,n03000684,"(23, 47)","(456, 253)","chain saw, chainsaw"
+ILSVRC2012_val_00048918,n03764736,"(136, 46)","(198, 155)",milk can
+ILSVRC2012_val_00048917,n07831146,"(41, 0)","(499, 374)",carbonara
+ILSVRC2012_val_00048916,n02797295,"(58, 101)","(155, 335)","barrow, garden cart, lawn cart, wheelbarrow"
+ILSVRC2012_val_00048915,n02088094,"(157, 221)","(290, 397)","Afghan hound, Afghan"
+ILSVRC2012_val_00048914,n02102040,"(83, 125)","(281, 430)","English springer, English springer spaniel"
+ILSVRC2012_val_00048913,n01773157,"(86, 136)","(234, 353)","black and gold garden spider, Argiope aurantia"
+ILSVRC2012_val_00048912,n03868242,"(51, 117)","(529, 445)",oxcart
+ILSVRC2012_val_00048911,n03476684,"(246, 90)","(421, 429)",hair slide
+ILSVRC2012_val_00048910,n04404412,"(73, 50)","(390, 306)","television, television system"
+ILSVRC2012_val_00048909,n01675722,"(69, 46)","(390, 268)",banded gecko
+ILSVRC2012_val_00048908,n02002724,"(107, 69)","(446, 336)","black stork, Ciconia nigra"
+ILSVRC2012_val_00048907,n01806567,"(11, 64)","(419, 422)",quail
+ILSVRC2012_val_00048906,n03347037,"(45, 31)","(348, 459)","fire screen, fireguard"
+ILSVRC2012_val_00048905,n04204347,"(88, 1)","(418, 372)",shopping cart
+ILSVRC2012_val_00048904,n02096177,"(7, 7)","(492, 492)","cairn, cairn terrier"
+ILSVRC2012_val_00048903,n02910353,"(266, 220)","(291, 240)",buckle
+ILSVRC2012_val_00048902,n01945685,"(11, 25)","(323, 473)",slug
+ILSVRC2012_val_00048901,n04429376,"(98, 141)","(290, 410)",throne
+ILSVRC2012_val_00048900,n04200800,"(51, 2)","(472, 251)","shoe shop, shoe-shop, shoe store"
+ILSVRC2012_val_00048899,n03457902,"(0, 0)","(499, 374)","greenhouse, nursery, glasshouse"
+ILSVRC2012_val_00048898,n04069434,"(63, 157)","(167, 226)",reflex camera
+ILSVRC2012_val_00048897,n02492660,"(593, 5)","(3066, 2286)","howler monkey, howler"
+ILSVRC2012_val_00048896,n03291819,"(30, 81)","(444, 297)",envelope
+ILSVRC2012_val_00048895,n02268443,"(17, 46)","(477, 418)","dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"
+ILSVRC2012_val_00048894,n02169497,"(266, 164)","(353, 254)","leaf beetle, chrysomelid"
+ILSVRC2012_val_00048893,n03710637,"(30, 20)","(373, 498)",maillot
+ILSVRC2012_val_00048892,n02361337,"(23, 68)","(311, 423)",marmot
+ILSVRC2012_val_00048891,n03041632,"(25, 96)","(108, 281)","cleaver, meat cleaver, chopper"
+ILSVRC2012_val_00048890,n01491361,"(28, 108)","(414, 320)","tiger shark, Galeocerdo cuvieri"
+ILSVRC2012_val_00048889,n04133789,"(81, 97)","(212, 324)",sandal
+ILSVRC2012_val_00048888,n02027492,"(127, 49)","(483, 256)","red-backed sandpiper, dunlin, Erolia alpina"
+ILSVRC2012_val_00048887,n01734418,"(158, 82)","(443, 228)","king snake, kingsnake"
+ILSVRC2012_val_00048886,n03089624,"(18, 16)","(152, 96)","confectionery, confectionary, candy store"
+ILSVRC2012_val_00048885,n02835271,"(7, 146)","(481, 374)","bicycle-built-for-two, tandem bicycle, tandem"
+ILSVRC2012_val_00048884,n02879718,"(107, 16)","(720, 636)",bow
+ILSVRC2012_val_00048883,n02132136,"(57, 61)","(791, 642)","brown bear, bruin, Ursus arctos"
+ILSVRC2012_val_00048882,n03063599,"(276, 152)","(355, 227)",coffee mug
+ILSVRC2012_val_00048881,n04153751,"(395, 131)","(528, 203)",screw
+ILSVRC2012_val_00048880,n12998815,"(41, 26)","(366, 297)",agaric
+ILSVRC2012_val_00048879,n03637318,"(110, 0)","(314, 257)","lampshade, lamp shade"
+ILSVRC2012_val_00048878,n03467068,"(115, 66)","(201, 342)",guillotine
+ILSVRC2012_val_00048877,n02009912,"(40, 45)","(458, 297)","American egret, great white heron, Egretta albus"
+ILSVRC2012_val_00048876,n03018349,"(75, 61)","(349, 358)","china cabinet, china closet"
+ILSVRC2012_val_00048875,n03063599,"(125, 212)","(407, 488)",coffee mug
+ILSVRC2012_val_00048874,n02099267,"(229, 61)","(483, 429)",flat-coated retriever
+ILSVRC2012_val_00048873,n03709823,"(36, 3)","(367, 267)","mailbag, postbag"
+ILSVRC2012_val_00048872,n02808304,"(158, 58)","(479, 434)",bath towel
+ILSVRC2012_val_00048871,n02793495,"(0, 2)","(499, 374)",barn
+ILSVRC2012_val_00048870,n04118776,"(236, 8)","(363, 457)","rule, ruler"
+ILSVRC2012_val_00048869,n12057211,"(125, 219)","(257, 380)","yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+ILSVRC2012_val_00048868,n04371430,"(141, 404)","(290, 493)","swimming trunks, bathing trunks"
+ILSVRC2012_val_00048867,n04553703,"(16, 110)","(499, 374)","washbasin, handbasin, washbowl, lavabo, wash-hand basin"
+ILSVRC2012_val_00048866,n03956157,"(95, 116)","(346, 328)",planetarium
+ILSVRC2012_val_00048865,n04239074,"(4, 181)","(74, 281)",sliding door
+ILSVRC2012_val_00048864,n01443537,"(159, 1)","(475, 187)","goldfish, Carassius auratus"
+ILSVRC2012_val_00048863,n03461385,"(1, 0)","(499, 374)","grocery store, grocery, food market, market"
+ILSVRC2012_val_00048862,n03496892,"(121, 36)","(447, 332)","harvester, reaper"
+ILSVRC2012_val_00048861,n02071294,"(73, 97)","(399, 270)","killer whale, killer, orca, grampus, sea wolf, Orcinus orca"
+ILSVRC2012_val_00048860,n03544143,"(150, 16)","(450, 586)",hourglass
+ILSVRC2012_val_00048859,n02105855,"(68, 59)","(499, 257)","Shetland sheepdog, Shetland sheep dog, Shetland"
+ILSVRC2012_val_00048858,n02100735,"(98, 65)","(497, 330)",English setter
+ILSVRC2012_val_00048857,n03920288,"(0, 1)","(496, 498)",Petri dish
+ILSVRC2012_val_00048856,n03207941,"(0, 0)","(331, 498)","dishwasher, dish washer, dishwashing machine"
+ILSVRC2012_val_00048855,n02487347,"(0, 11)","(388, 558)",macaque
+ILSVRC2012_val_00048854,n03207743,"(1, 1)","(476, 498)","dishrag, dishcloth"
+ILSVRC2012_val_00048853,n03028079,"(2, 0)","(499, 374)","church, church building"
+ILSVRC2012_val_00048852,n03991062,"(296, 212)","(426, 317)","pot, flowerpot"
+ILSVRC2012_val_00048851,n03873416,"(70, 61)","(225, 163)","paddle, boat paddle"
+ILSVRC2012_val_00048850,n04133789,"(45, 93)","(258, 397)",sandal
+ILSVRC2012_val_00048849,n07860988,"(172, 241)","(340, 328)",dough
+ILSVRC2012_val_00048848,n04111531,"(233, 112)","(319, 183)",rotisserie
+ILSVRC2012_val_00048847,n03729826,"(209, 160)","(240, 213)",matchstick
+ILSVRC2012_val_00048846,n01807496,"(89, 71)","(491, 325)",partridge
+ILSVRC2012_val_00048845,n04074963,"(28, 129)","(473, 256)","remote control, remote"
+ILSVRC2012_val_00048844,n03903868,"(121, 254)","(254, 395)","pedestal, plinth, footstall"
+ILSVRC2012_val_00048843,n03935335,"(18, 83)","(363, 402)","piggy bank, penny bank"
+ILSVRC2012_val_00048842,n02109525,"(1, 1)","(404, 374)","Saint Bernard, St Bernard"
+ILSVRC2012_val_00048841,n07697313,"(100, 152)","(498, 485)",cheeseburger
+ILSVRC2012_val_00048840,n01443537,"(157, 129)","(381, 276)","goldfish, Carassius auratus"
+ILSVRC2012_val_00048839,n02808440,"(0, 48)","(499, 374)","bathtub, bathing tub, bath, tub"
+ILSVRC2012_val_00048838,n01833805,"(89, 319)","(329, 424)",hummingbird
+ILSVRC2012_val_00048837,n01983481,"(19, 119)","(472, 298)","American lobster, Northern lobster, Maine lobster, Homarus americanus"
+ILSVRC2012_val_00048836,n04265275,"(60, 95)","(316, 395)",space heater
+ILSVRC2012_val_00048835,n04317175,"(125, 125)","(293, 318)",stethoscope
+ILSVRC2012_val_00048834,n02100236,"(38, 181)","(253, 477)",German short-haired pointer
+ILSVRC2012_val_00048833,n07714990,"(81, 232)","(190, 346)",broccoli
+ILSVRC2012_val_00048832,n02536864,"(2, 343)","(322, 440)","coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch"
+ILSVRC2012_val_00048831,n04209133,"(206, 38)","(291, 95)",shower cap
+ILSVRC2012_val_00048830,n02110185,"(1, 12)","(328, 413)",Siberian husky
+ILSVRC2012_val_00048829,n01537544,"(87, 62)","(273, 289)","indigo bunting, indigo finch, indigo bird, Passerina cyanea"
+ILSVRC2012_val_00048828,n01698640,"(216, 110)","(386, 215)","American alligator, Alligator mississipiensis"
+ILSVRC2012_val_00048827,n02281787,"(133, 157)","(620, 587)","lycaenid, lycaenid butterfly"
+ILSVRC2012_val_00048826,n03494278,"(78, 215)","(118, 283)","harmonica, mouth organ, harp, mouth harp"
+ILSVRC2012_val_00048825,n01796340,"(53, 47)","(392, 498)",ptarmigan
+ILSVRC2012_val_00048824,n01828970,"(144, 166)","(338, 333)",bee eater
+ILSVRC2012_val_00048823,n07875152,"(79, 93)","(375, 399)",potpie
+ILSVRC2012_val_00048822,n12057211,"(148, 0)","(421, 392)","yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+ILSVRC2012_val_00048821,n03887697,"(119, 16)","(283, 288)",paper towel
+ILSVRC2012_val_00048820,n03041632,"(23, 22)","(487, 326)","cleaver, meat cleaver, chopper"
+ILSVRC2012_val_00048819,n03793489,"(25, 111)","(231, 298)","mouse, computer mouse"
+ILSVRC2012_val_00048818,n02108551,"(6, 16)","(488, 438)",Tibetan mastiff
+ILSVRC2012_val_00048817,n02488291,"(31, 1)","(108, 78)",langur
+ILSVRC2012_val_00048816,n03459775,"(303, 244)","(371, 265)","grille, radiator grille"
+ILSVRC2012_val_00048815,n07880968,"(96, 17)","(385, 498)",burrito
+ILSVRC2012_val_00048814,n02009229,"(270, 152)","(453, 278)","little blue heron, Egretta caerulea"
+ILSVRC2012_val_00048813,n03026506,"(260, 56)","(465, 433)",Christmas stocking
+ILSVRC2012_val_00048812,n04141975,"(23, 318)","(336, 485)","scale, weighing machine"
+ILSVRC2012_val_00048811,n04540053,"(438, 22)","(565, 148)",volleyball
+ILSVRC2012_val_00048810,n02319095,"(61, 87)","(1178, 1165)",sea urchin
+ILSVRC2012_val_00048809,n03992509,"(137, 225)","(323, 355)",potter's wheel
+ILSVRC2012_val_00048808,n01990800,"(159, 166)","(281, 242)",isopod
+ILSVRC2012_val_00048807,n03840681,"(3, 43)","(424, 224)","ocarina, sweet potato"
+ILSVRC2012_val_00048806,n03447447,"(86, 358)","(175, 498)",gondola
+ILSVRC2012_val_00048805,n03658185,"(1, 4)","(436, 373)","letter opener, paper knife, paperknife"
+ILSVRC2012_val_00048804,n02666196,"(2, 52)","(302, 487)",abacus
+ILSVRC2012_val_00048803,n07754684,"(108, 205)","(233, 411)","jackfruit, jak, jack"
+ILSVRC2012_val_00048802,n02033041,"(102, 145)","(326, 327)",dowitcher
+ILSVRC2012_val_00048801,n02104365,"(29, 14)","(419, 367)",schipperke
+ILSVRC2012_val_00048800,n01770393,"(18, 45)","(476, 312)",scorpion
+ILSVRC2012_val_00048799,n04389033,"(43, 98)","(438, 319)","tank, army tank, armored combat vehicle, armoured combat vehicle"
+ILSVRC2012_val_00048798,n11879895,"(3, 263)","(497, 333)",rapeseed
+ILSVRC2012_val_00048797,n03970156,"(256, 113)","(486, 280)","plunger, plumber's helper"
+ILSVRC2012_val_00048796,n02860847,"(0, 177)","(656, 368)","bobsled, bobsleigh, bob"
+ILSVRC2012_val_00048795,n06794110,"(65, 2)","(324, 70)",street sign
+ILSVRC2012_val_00048794,n02071294,"(218, 92)","(240, 132)","killer whale, killer, orca, grampus, sea wolf, Orcinus orca"
+ILSVRC2012_val_00048793,n03970156,"(53, 112)","(436, 218)","plunger, plumber's helper"
+ILSVRC2012_val_00048792,n02356798,"(13, 60)","(559, 658)","fox squirrel, eastern fox squirrel, Sciurus niger"
+ILSVRC2012_val_00048791,n01704323,"(0, 62)","(373, 498)",triceratops
+ILSVRC2012_val_00048790,n13054560,"(50, 43)","(276, 237)",bolete
+ILSVRC2012_val_00048789,n03141823,"(18, 90)","(561, 507)",crutch
+ILSVRC2012_val_00048788,n07831146,"(51, 163)","(373, 385)",carbonara
+ILSVRC2012_val_00048787,n03980874,"(1, 23)","(499, 361)",poncho
+ILSVRC2012_val_00048786,n09468604,"(0, 3)","(498, 497)","valley, vale"
+ILSVRC2012_val_00048785,n03594734,"(131, 17)","(302, 366)","jean, blue jean, denim"
+ILSVRC2012_val_00048784,n04553703,"(195, 140)","(426, 300)","washbasin, handbasin, washbowl, lavabo, wash-hand basin"
+ILSVRC2012_val_00048783,n02085936,"(11, 86)","(423, 284)","Maltese dog, Maltese terrier, Maltese"
+ILSVRC2012_val_00048782,n04389033,"(7, 101)","(223, 267)","tank, army tank, armored combat vehicle, armoured combat vehicle"
+ILSVRC2012_val_00048781,n02504458,"(68, 21)","(299, 236)","African elephant, Loxodonta africana"
+ILSVRC2012_val_00048780,n02094114,"(121, 66)","(499, 374)",Norfolk terrier
+ILSVRC2012_val_00048779,n02110341,"(179, 53)","(370, 374)","dalmatian, coach dog, carriage dog"
+ILSVRC2012_val_00048778,n03141823,"(124, 17)","(280, 758)",crutch
+ILSVRC2012_val_00048777,n12144580,"(310, 467)","(376, 562)",corn
+ILSVRC2012_val_00048776,n03000134,"(0, 1)","(499, 373)",chainlink fence
+ILSVRC2012_val_00048775,n02666196,"(23, 67)","(785, 307)",abacus
+ILSVRC2012_val_00048774,n03776460,"(22, 179)","(422, 263)","mobile home, manufactured home"
+ILSVRC2012_val_00048773,n02951358,"(170, 234)","(309, 321)",canoe
+ILSVRC2012_val_00048772,n02992211,"(1, 0)","(499, 396)","cello, violoncello"
+ILSVRC2012_val_00048771,n02412080,"(406, 204)","(462, 286)","ram, tup"
+ILSVRC2012_val_00048770,n02100236,"(21, 81)","(305, 441)",German short-haired pointer
+ILSVRC2012_val_00048769,n03871628,"(12, 1)","(494, 372)",packet
+ILSVRC2012_val_00048768,n04149813,"(110, 103)","(397, 330)",scoreboard
+ILSVRC2012_val_00048767,n04443257,"(10, 58)","(373, 495)","tobacco shop, tobacconist shop, tobacconist"
+ILSVRC2012_val_00048766,n02165105,"(7, 14)","(446, 331)",tiger beetle
+ILSVRC2012_val_00048765,n04065272,"(3, 89)","(405, 316)","recreational vehicle, RV, R.V."
+ILSVRC2012_val_00048764,n02514041,"(96, 222)","(612, 409)","barracouta, snoek"
+ILSVRC2012_val_00048763,n03134739,"(232, 144)","(327, 241)",croquet ball
+ILSVRC2012_val_00048762,n03201208,"(67, 134)","(370, 331)","dining table, board"
+ILSVRC2012_val_00048761,n02100735,"(0, 70)","(497, 332)",English setter
+ILSVRC2012_val_00048760,n02112706,"(16, 0)","(291, 330)",Brabancon griffon
+ILSVRC2012_val_00048759,n04019541,"(51, 47)","(477, 472)","puck, hockey puck"
+ILSVRC2012_val_00048758,n04254120,"(36, 51)","(265, 498)",soap dispenser
+ILSVRC2012_val_00048757,n02412080,"(0, 11)","(481, 340)","ram, tup"
+ILSVRC2012_val_00048756,n02120505,"(1, 10)","(323, 498)","grey fox, gray fox, Urocyon cinereoargenteus"
+ILSVRC2012_val_00048755,n03452741,"(152, 28)","(499, 374)","grand piano, grand"
+ILSVRC2012_val_00048754,n01688243,"(0, 62)","(480, 392)","frilled lizard, Chlamydosaurus kingi"
+ILSVRC2012_val_00048753,n03538406,"(107, 125)","(444, 362)","horse cart, horse-cart"
+ILSVRC2012_val_00048752,n01873310,"(165, 153)","(258, 188)","platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus"
+ILSVRC2012_val_00048751,n07734744,"(433, 113)","(490, 189)",mushroom
+ILSVRC2012_val_00048750,n01755581,"(18, 76)","(481, 354)","diamondback, diamondback rattlesnake, Crotalus adamanteus"
+ILSVRC2012_val_00048749,n01833805,"(48, 112)","(207, 287)",hummingbird
+ILSVRC2012_val_00048748,n02105251,"(81, 32)","(288, 192)",briard
+ILSVRC2012_val_00048747,n03657121,"(82, 208)","(368, 492)","lens cap, lens cover"
+ILSVRC2012_val_00048746,n04550184,"(60, 49)","(376, 583)","wardrobe, closet, press"
+ILSVRC2012_val_00048745,n03690938,"(138, 82)","(256, 324)",lotion
+ILSVRC2012_val_00048744,n04522168,"(35, 26)","(355, 440)",vase
+ILSVRC2012_val_00048743,n02268443,"(143, 108)","(373, 355)","dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"
+ILSVRC2012_val_00048742,n03837869,"(208, 150)","(412, 496)",obelisk
+ILSVRC2012_val_00048741,n02481823,"(115, 19)","(387, 333)","chimpanzee, chimp, Pan troglodytes"
+ILSVRC2012_val_00048740,n03871628,"(113, 60)","(252, 212)",packet
+ILSVRC2012_val_00048739,n02797295,"(124, 236)","(322, 373)","barrow, garden cart, lawn cart, wheelbarrow"
+ILSVRC2012_val_00048738,n04372370,"(188, 193)","(247, 292)","switch, electric switch, electrical switch"
+ILSVRC2012_val_00048737,n02096437,"(94, 27)","(439, 295)","Dandie Dinmont, Dandie Dinmont terrier"
+ILSVRC2012_val_00048736,n09835506,"(19, 65)","(310, 422)","ballplayer, baseball player"
+ILSVRC2012_val_00048735,n02025239,"(45, 112)","(482, 360)","ruddy turnstone, Arenaria interpres"
+ILSVRC2012_val_00048734,n03259280,"(78, 14)","(435, 346)",Dutch oven
+ILSVRC2012_val_00048733,n04254777,"(129, 119)","(286, 352)",sock
+ILSVRC2012_val_00048732,n01537544,"(158, 132)","(440, 332)","indigo bunting, indigo finch, indigo bird, Passerina cyanea"
+ILSVRC2012_val_00048731,n04532106,"(61, 191)","(345, 466)",vestment
+ILSVRC2012_val_00048730,n02747177,"(37, 103)","(361, 461)","ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin"
+ILSVRC2012_val_00048729,n04192698,"(6, 9)","(545, 542)","shield, buckler"
+ILSVRC2012_val_00048728,n12768682,"(255, 150)","(360, 243)","buckeye, horse chestnut, conker"
+ILSVRC2012_val_00048727,n02017213,"(51, 32)","(452, 443)","European gallinule, Porphyrio porphyrio"
+ILSVRC2012_val_00048726,n03016953,"(18, 16)","(471, 442)","chiffonier, commode"
+ILSVRC2012_val_00048725,n02027492,"(18, 78)","(450, 373)","red-backed sandpiper, dunlin, Erolia alpina"
+ILSVRC2012_val_00048724,n03710637,"(111, 151)","(254, 447)",maillot
+ILSVRC2012_val_00048723,n02107312,"(181, 96)","(340, 304)",miniature pinscher
+ILSVRC2012_val_00048722,n01807496,"(45, 23)","(393, 420)",partridge
+ILSVRC2012_val_00048721,n04442312,"(177, 59)","(378, 283)",toaster
+ILSVRC2012_val_00048720,n02099429,"(122, 82)","(414, 237)",curly-coated retriever
+ILSVRC2012_val_00048719,n02606052,"(104, 87)","(626, 688)","rock beauty, Holocanthus tricolor"
+ILSVRC2012_val_00048718,n02442845,"(179, 62)","(350, 333)",mink
+ILSVRC2012_val_00048717,n02128757,"(1, 55)","(330, 448)","snow leopard, ounce, Panthera uncia"
+ILSVRC2012_val_00048716,n02128925,"(25, 1)","(245, 369)","jaguar, panther, Panthera onca, Felis onca"
+ILSVRC2012_val_00048715,n04254680,"(112, 0)","(597, 335)",soccer ball
+ILSVRC2012_val_00048714,n01773797,"(15, 0)","(478, 498)","garden spider, Aranea diademata"
+ILSVRC2012_val_00048713,n03786901,"(14, 3)","(279, 424)",mortar
+ILSVRC2012_val_00048712,n04485082,"(86, 221)","(198, 498)",tripod
+ILSVRC2012_val_00048711,n03794056,"(0, 21)","(480, 374)",mousetrap
+ILSVRC2012_val_00048710,n01531178,"(135, 65)","(364, 348)","goldfinch, Carduelis carduelis"
+ILSVRC2012_val_00048709,n03877472,"(0, 133)","(499, 332)","pajama, pyjama, pj's, jammies"
+ILSVRC2012_val_00048708,n01770081,"(53, 33)","(441, 473)","harvestman, daddy longlegs, Phalangium opilio"
+ILSVRC2012_val_00048707,n04591157,"(290, 266)","(340, 333)",Windsor tie
+ILSVRC2012_val_00048706,n02412080,"(9, 0)","(492, 352)","ram, tup"
+ILSVRC2012_val_00048705,n04418357,"(42, 29)","(472, 276)","theater curtain, theatre curtain"
+ILSVRC2012_val_00048704,n03775546,"(339, 38)","(469, 143)",mixing bowl
+ILSVRC2012_val_00048703,n03967562,"(168, 177)","(482, 314)","plow, plough"
+ILSVRC2012_val_00048702,n03598930,"(87, 131)","(498, 364)",jigsaw puzzle
+ILSVRC2012_val_00048701,n03459775,"(116, 313)","(360, 437)","grille, radiator grille"
+ILSVRC2012_val_00048700,n01806143,"(131, 16)","(455, 392)",peacock
+ILSVRC2012_val_00048699,n03494278,"(132, 192)","(379, 293)","harmonica, mouth organ, harp, mouth harp"
+ILSVRC2012_val_00048698,n03777568,"(44, 6)","(474, 341)",Model T
+ILSVRC2012_val_00048697,n03424325,"(132, 1)","(473, 374)","gasmask, respirator, gas helmet"
+ILSVRC2012_val_00048696,n02276258,"(150, 105)","(353, 289)",admiral
+ILSVRC2012_val_00048695,n04154565,"(128, 200)","(147, 248)",screwdriver
+ILSVRC2012_val_00048694,n02100236,"(103, 87)","(286, 465)",German short-haired pointer
+ILSVRC2012_val_00048693,n02114855,"(265, 73)","(412, 186)","coyote, prairie wolf, brush wolf, Canis latrans"
+ILSVRC2012_val_00048692,n04366367,"(158, 183)","(498, 245)",suspension bridge
+ILSVRC2012_val_00048691,n04147183,"(66, 0)","(591, 375)",schooner
+ILSVRC2012_val_00048690,n04275548,"(19, 1)","(314, 374)","spider web, spider's web"
+ILSVRC2012_val_00048689,n10565667,"(157, 20)","(318, 275)",scuba diver
+ILSVRC2012_val_00048688,n02492660,"(93, 144)","(313, 379)","howler monkey, howler"
+ILSVRC2012_val_00048687,n02264363,"(202, 63)","(299, 245)","lacewing, lacewing fly"
+ILSVRC2012_val_00048686,n04310018,"(63, 0)","(387, 332)",steam locomotive
+ILSVRC2012_val_00048685,n07873807,"(2, 1)","(499, 374)","pizza, pizza pie"
+ILSVRC2012_val_00048684,n04350905,"(60, 172)","(400, 377)","suit, suit of clothes"
+ILSVRC2012_val_00048683,n06785654,"(13, 0)","(424, 255)","crossword puzzle, crossword"
+ILSVRC2012_val_00048682,n03196217,"(331, 173)","(484, 328)",digital clock
+ILSVRC2012_val_00048681,n03126707,"(20, 52)","(499, 387)",crane
+ILSVRC2012_val_00048680,n03843555,"(2, 60)","(232, 332)",oil filter
+ILSVRC2012_val_00048679,n03710193,"(69, 54)","(290, 571)","mailbox, letter box"
+ILSVRC2012_val_00048678,n03272562,"(64, 103)","(499, 381)",electric locomotive
+ILSVRC2012_val_00048677,n12768682,"(253, 62)","(359, 196)","buckeye, horse chestnut, conker"
+ILSVRC2012_val_00048676,n02168699,"(96, 0)","(464, 318)","long-horned beetle, longicorn, longicorn beetle"
+ILSVRC2012_val_00048675,n01694178,"(1, 68)","(410, 301)","African chameleon, Chamaeleo chamaeleon"
+ILSVRC2012_val_00048674,n09193705,"(181, 81)","(499, 222)",alp
+ILSVRC2012_val_00048673,n03482405,"(26, 3)","(490, 373)",hamper
+ILSVRC2012_val_00048672,n02974003,"(300, 255)","(423, 362)",car wheel
+ILSVRC2012_val_00048671,n07753275,"(167, 41)","(338, 301)","pineapple, ananas"
+ILSVRC2012_val_00048670,n02391049,"(0, 126)","(286, 332)",zebra
+ILSVRC2012_val_00048669,n02356798,"(152, 34)","(237, 191)","fox squirrel, eastern fox squirrel, Sciurus niger"
+ILSVRC2012_val_00048668,n04251144,"(203, 209)","(259, 334)",snorkel
+ILSVRC2012_val_00048667,n02808304,"(67, 96)","(422, 183)",bath towel
+ILSVRC2012_val_00048666,n02006656,"(101, 56)","(428, 368)",spoonbill
+ILSVRC2012_val_00048665,n04243546,"(0, 0)","(498, 374)","slot, one-armed bandit"
+ILSVRC2012_val_00048664,n02051845,"(85, 115)","(371, 495)",pelican
+ILSVRC2012_val_00048663,n02104365,"(135, 326)","(246, 455)",schipperke
+ILSVRC2012_val_00048662,n02487347,"(61, 33)","(242, 290)",macaque
+ILSVRC2012_val_00048661,n02104029,"(138, 99)","(333, 228)",kuvasz
+ILSVRC2012_val_00048660,n02667093,"(50, 106)","(119, 304)",abaya
+ILSVRC2012_val_00048659,n01537544,"(74, 105)","(224, 360)","indigo bunting, indigo finch, indigo bird, Passerina cyanea"
+ILSVRC2012_val_00048658,n01883070,"(98, 117)","(330, 269)",wombat
+ILSVRC2012_val_00048657,n04532106,"(0, 0)","(265, 374)",vestment
+ILSVRC2012_val_00048656,n03937543,"(69, 2)","(361, 227)",pill bottle
+ILSVRC2012_val_00048655,n03657121,"(166, 426)","(265, 477)","lens cap, lens cover"
+ILSVRC2012_val_00048654,n02927161,"(1, 0)","(499, 374)","butcher shop, meat market"
+ILSVRC2012_val_00048653,n04371774,"(221, 0)","(478, 294)",swing
+ILSVRC2012_val_00048652,n02096294,"(41, 6)","(442, 308)",Australian terrier
+ILSVRC2012_val_00048651,n03903868,"(67, 186)","(499, 374)","pedestal, plinth, footstall"
+ILSVRC2012_val_00048650,n02105855,"(167, 230)","(271, 343)","Shetland sheepdog, Shetland sheep dog, Shetland"
+ILSVRC2012_val_00048649,n01775062,"(82, 0)","(443, 405)","wolf spider, hunting spider"
+ILSVRC2012_val_00048648,n03594734,"(0, 15)","(499, 374)","jean, blue jean, denim"
+ILSVRC2012_val_00048647,n02417914,"(133, 79)","(220, 174)","ibex, Capra ibex"
+ILSVRC2012_val_00048646,n03998194,"(401, 225)","(499, 374)","prayer rug, prayer mat"
+ILSVRC2012_val_00048645,n04456115,"(207, 57)","(259, 223)",torch
+ILSVRC2012_val_00048644,n02051845,"(211, 98)","(403, 202)",pelican
+ILSVRC2012_val_00048643,n04553703,"(117, 153)","(468, 371)","washbasin, handbasin, washbowl, lavabo, wash-hand basin"
+ILSVRC2012_val_00048642,n01532829,"(128, 101)","(433, 285)","house finch, linnet, Carpodacus mexicanus"
+ILSVRC2012_val_00048641,n02277742,"(131, 227)","(196, 275)","ringlet, ringlet butterfly"
+ILSVRC2012_val_00048640,n02012849,"(102, 22)","(329, 374)",crane
+ILSVRC2012_val_00048639,n02095314,"(31, 49)","(422, 374)",wire-haired fox terrier
+ILSVRC2012_val_00048638,n03690938,"(120, 46)","(237, 457)",lotion
+ILSVRC2012_val_00048637,n03110669,"(0, 13)","(307, 498)","cornet, horn, trumpet, trump"
+ILSVRC2012_val_00048636,n02108000,"(25, 38)","(261, 363)",EntleBucher
+ILSVRC2012_val_00048635,n10565667,"(252, 61)","(499, 374)",scuba diver
+ILSVRC2012_val_00048634,n03530642,"(0, 0)","(499, 387)",honeycomb
+ILSVRC2012_val_00048633,n03347037,"(30, 7)","(383, 389)","fire screen, fireguard"
+ILSVRC2012_val_00048632,n02676566,"(41, 161)","(461, 337)",acoustic guitar
+ILSVRC2012_val_00048631,n03110669,"(389, 173)","(434, 276)","cornet, horn, trumpet, trump"
+ILSVRC2012_val_00048630,n07714990,"(16, 1)","(499, 312)",broccoli
+ILSVRC2012_val_00048629,n02100877,"(107, 176)","(373, 421)","Irish setter, red setter"
+ILSVRC2012_val_00048628,n03250847,"(312, 124)","(466, 232)",drumstick
+ILSVRC2012_val_00048627,n02104029,"(0, 112)","(330, 297)",kuvasz
+ILSVRC2012_val_00048626,n03998194,"(7, 0)","(358, 498)","prayer rug, prayer mat"
+ILSVRC2012_val_00048625,n02113799,"(32, 14)","(306, 434)",standard poodle
+ILSVRC2012_val_00048624,n03958227,"(3, 1)","(412, 498)",plastic bag
+ILSVRC2012_val_00048623,n03891332,"(154, 85)","(289, 497)",parking meter
+ILSVRC2012_val_00048622,n04099969,"(0, 0)","(499, 374)","rocking chair, rocker"
+ILSVRC2012_val_00048621,n02808440,"(73, 336)","(326, 456)","bathtub, bathing tub, bath, tub"
+ILSVRC2012_val_00048620,n03642806,"(576, 100)","(798, 326)","laptop, laptop computer"
+ILSVRC2012_val_00048619,n04120489,"(23, 1)","(492, 232)",running shoe
+ILSVRC2012_val_00048618,n02437312,"(45, 96)","(407, 348)","Arabian camel, dromedary, Camelus dromedarius"
+ILSVRC2012_val_00048617,n03775546,"(0, 53)","(499, 342)",mixing bowl
+ILSVRC2012_val_00048616,n03388183,"(122, 182)","(1222, 612)",fountain pen
+ILSVRC2012_val_00048615,n03743016,"(57, 85)","(353, 284)","megalith, megalithic structure"
+ILSVRC2012_val_00048614,n01968897,"(352, 101)","(464, 181)","chambered nautilus, pearly nautilus, nautilus"
+ILSVRC2012_val_00048613,n02093991,"(15, 22)","(286, 488)",Irish terrier
+ILSVRC2012_val_00048612,n03759954,"(140, 249)","(255, 422)","microphone, mike"
+ILSVRC2012_val_00048611,n03794056,"(34, 2)","(260, 333)",mousetrap
+ILSVRC2012_val_00048610,n03770679,"(35, 45)","(455, 344)",minivan
+ILSVRC2012_val_00048609,n03944341,"(0, 2)","(498, 374)",pinwheel
+ILSVRC2012_val_00048608,n02487347,"(177, 81)","(367, 303)",macaque
+ILSVRC2012_val_00048607,n02095889,"(5, 26)","(323, 399)","Sealyham terrier, Sealyham"
+ILSVRC2012_val_00048606,n02002556,"(175, 179)","(229, 267)","white stork, Ciconia ciconia"
+ILSVRC2012_val_00048605,n02870880,"(33, 370)","(497, 498)",bookcase
+ILSVRC2012_val_00048604,n04254777,"(253, 26)","(484, 432)",sock
+ILSVRC2012_val_00048603,n02999410,"(0, 192)","(373, 358)",chain
+ILSVRC2012_val_00048602,n04591713,"(140, 0)","(373, 498)",wine bottle
+ILSVRC2012_val_00048601,n01807496,"(27, 65)","(271, 310)",partridge
+ILSVRC2012_val_00048600,n01518878,"(68, 52)","(241, 249)","ostrich, Struthio camelus"
+ILSVRC2012_val_00048599,n03014705,"(20, 3)","(488, 403)",chest
+ILSVRC2012_val_00048598,n04505470,"(62, 22)","(443, 155)",typewriter keyboard
+ILSVRC2012_val_00048597,n03047690,"(276, 6)","(440, 252)","clog, geta, patten, sabot"
+ILSVRC2012_val_00048596,n07717410,"(25, 1)","(422, 374)",acorn squash
+ILSVRC2012_val_00048595,n03180011,"(14, 16)","(375, 373)",desktop computer
+ILSVRC2012_val_00048594,n02328150,"(0, 45)","(465, 374)","Angora, Angora rabbit"
+ILSVRC2012_val_00048593,n01776313,"(153, 156)","(450, 464)",tick
+ILSVRC2012_val_00048592,n02089867,"(82, 45)","(499, 374)","Walker hound, Walker foxhound"
+ILSVRC2012_val_00048591,n02110341,"(73, 12)","(442, 338)","dalmatian, coach dog, carriage dog"
+ILSVRC2012_val_00048590,n04204238,"(2, 321)","(165, 424)",shopping basket
+ILSVRC2012_val_00048589,n03991062,"(46, 0)","(348, 498)","pot, flowerpot"
+ILSVRC2012_val_00048588,n02097209,"(40, 37)","(323, 460)",standard schnauzer
+ILSVRC2012_val_00048587,n02910353,"(394, 650)","(484, 723)",buckle
+ILSVRC2012_val_00048586,n07920052,"(106, 16)","(353, 237)",espresso
+ILSVRC2012_val_00048585,n02667093,"(25, 12)","(787, 1679)",abaya
+ILSVRC2012_val_00048584,n03676483,"(835, 48)","(953, 443)","lipstick, lip rouge"
+ILSVRC2012_val_00048583,n02747177,"(228, 151)","(347, 274)","ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin"
+ILSVRC2012_val_00048582,n03891332,"(141, 2)","(410, 374)",parking meter
+ILSVRC2012_val_00048581,n02445715,"(179, 87)","(499, 332)","skunk, polecat, wood pussy"
+ILSVRC2012_val_00048580,n04523525,"(5, 2)","(372, 157)",vault
+ILSVRC2012_val_00048579,n04553703,"(9, 88)","(396, 357)","washbasin, handbasin, washbowl, lavabo, wash-hand basin"
+ILSVRC2012_val_00048578,n02106166,"(182, 47)","(375, 426)",Border collie
+ILSVRC2012_val_00048577,n03529860,"(25, 13)","(481, 339)","home theater, home theatre"
+ILSVRC2012_val_00048576,n01494475,"(208, 19)","(368, 281)","hammerhead, hammerhead shark"
+ILSVRC2012_val_00048575,n02018795,"(155, 90)","(386, 300)",bustard
+ILSVRC2012_val_00048574,n01729977,"(46, 64)","(464, 257)","green snake, grass snake"
+ILSVRC2012_val_00048573,n02687172,"(76, 156)","(499, 332)","aircraft carrier, carrier, flattop, attack aircraft carrier"
+ILSVRC2012_val_00048572,n04335435,"(51, 84)","(464, 326)","streetcar, tram, tramcar, trolley, trolley car"
+ILSVRC2012_val_00048571,n02869837,"(49, 78)","(363, 401)","bonnet, poke bonnet"
+ILSVRC2012_val_00048570,n02174001,"(30, 88)","(455, 328)",rhinoceros beetle
+ILSVRC2012_val_00048569,n03785016,"(47, 175)","(345, 329)",moped
+ILSVRC2012_val_00048568,n04259630,"(8, 60)","(219, 175)",sombrero
+ILSVRC2012_val_00048567,n03141823,"(300, 156)","(319, 270)",crutch
+ILSVRC2012_val_00048566,n03717622,"(81, 58)","(393, 349)",manhole cover
+ILSVRC2012_val_00048565,n03630383,"(215, 231)","(385, 532)","lab coat, laboratory coat"
+ILSVRC2012_val_00048564,n04252077,"(117, 241)","(426, 374)",snowmobile
+ILSVRC2012_val_00048563,n03544143,"(79, 49)","(172, 273)",hourglass
+ILSVRC2012_val_00048562,n01978455,"(32, 111)","(445, 271)","rock crab, Cancer irroratus"
+ILSVRC2012_val_00048561,n03496892,"(16, 72)","(464, 331)","harvester, reaper"
+ILSVRC2012_val_00048560,n02364673,"(25, 72)","(483, 267)","guinea pig, Cavia cobaya"
+ILSVRC2012_val_00048559,n03874599,"(382, 521)","(493, 680)",padlock
+ILSVRC2012_val_00048558,n03920288,"(71, 153)","(344, 333)",Petri dish
+ILSVRC2012_val_00048557,n03347037,"(9, 39)","(213, 298)","fire screen, fireguard"
+ILSVRC2012_val_00048556,n02814533,"(50, 138)","(222, 244)","beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+ILSVRC2012_val_00048555,n02965783,"(87, 39)","(499, 331)",car mirror
+ILSVRC2012_val_00048554,n03124043,"(57, 19)","(214, 334)",cowboy boot
+ILSVRC2012_val_00048553,n02006656,"(93, 34)","(431, 325)",spoonbill
+ILSVRC2012_val_00048552,n01601694,"(17, 61)","(209, 217)","water ouzel, dipper"
+ILSVRC2012_val_00048551,n04252077,"(86, 180)","(303, 364)",snowmobile
+ILSVRC2012_val_00048550,n04357314,"(319, 200)","(394, 342)","sunscreen, sunblock, sun blocker"
+ILSVRC2012_val_00048549,n01829413,"(2, 0)","(495, 371)",hornbill
+ILSVRC2012_val_00048548,n01704323,"(64, 0)","(499, 306)",triceratops
+ILSVRC2012_val_00048547,n02504013,"(45, 27)","(321, 472)","Indian elephant, Elephas maximus"
+ILSVRC2012_val_00048546,n02317335,"(137, 71)","(373, 318)","starfish, sea star"
+ILSVRC2012_val_00048545,n04542943,"(37, 55)","(287, 425)",waffle iron
+ILSVRC2012_val_00048544,n04039381,"(278, 338)","(305, 386)","racket, racquet"
+ILSVRC2012_val_00048543,n04330267,"(114, 0)","(458, 360)",stove
+ILSVRC2012_val_00048542,n01698640,"(2, 3)","(499, 361)","American alligator, Alligator mississipiensis"
+ILSVRC2012_val_00048541,n04532106,"(107, 27)","(442, 269)",vestment
+ILSVRC2012_val_00048540,n02011460,"(161, 60)","(421, 355)",bittern
+ILSVRC2012_val_00048539,n04591713,"(311, 155)","(451, 498)",wine bottle
+ILSVRC2012_val_00048538,n07836838,"(116, 32)","(410, 281)","chocolate sauce, chocolate syrup"
+ILSVRC2012_val_00048537,n02105056,"(0, 10)","(396, 498)",groenendael
+ILSVRC2012_val_00048536,n02101388,"(114, 85)","(235, 370)",Brittany spaniel
+ILSVRC2012_val_00048535,n02408429,"(195, 152)","(409, 297)","water buffalo, water ox, Asiatic buffalo, Bubalus bubalis"
+ILSVRC2012_val_00048534,n09421951,"(214, 191)","(498, 374)","sandbar, sand bar"
+ILSVRC2012_val_00048533,n04265275,"(292, 2)","(388, 101)",space heater
+ILSVRC2012_val_00048532,n03208938,"(172, 129)","(383, 380)","disk brake, disc brake"
+ILSVRC2012_val_00048531,n03888605,"(149, 245)","(341, 330)","parallel bars, bars"
+ILSVRC2012_val_00048530,n02105251,"(28, 46)","(326, 295)",briard
+ILSVRC2012_val_00048529,n04179913,"(213, 144)","(265, 275)",sewing machine
+ILSVRC2012_val_00048528,n02948072,"(140, 41)","(263, 142)","candle, taper, wax light"
+ILSVRC2012_val_00048527,n02097298,"(151, 86)","(281, 301)","Scotch terrier, Scottish terrier, Scottie"
+ILSVRC2012_val_00048526,n12144580,"(378, 326)","(397, 350)",corn
+ILSVRC2012_val_00048525,n02443114,"(62, 115)","(184, 272)","polecat, fitch, foulmart, foumart, Mustela putorius"
+ILSVRC2012_val_00048524,n03271574,"(260, 59)","(363, 332)","electric fan, blower"
+ILSVRC2012_val_00048523,n01774384,"(156, 66)","(292, 257)","black widow, Latrodectus mactans"
+ILSVRC2012_val_00048522,n03841143,"(67, 1)","(465, 370)","odometer, hodometer, mileometer, milometer"
+ILSVRC2012_val_00048521,n02730930,"(0, 25)","(490, 476)",apron
+ILSVRC2012_val_00048520,n04418357,"(142, 0)","(423, 222)","theater curtain, theatre curtain"
+ILSVRC2012_val_00048519,n02971356,"(1, 28)","(340, 448)",carton
+ILSVRC2012_val_00048518,n04296562,"(64, 97)","(451, 287)",stage
+ILSVRC2012_val_00048517,n03445777,"(182, 79)","(432, 327)",golf ball
+ILSVRC2012_val_00048516,n04037443,"(45, 112)","(434, 302)","racer, race car, racing car"
+ILSVRC2012_val_00048515,n02107683,"(12, 3)","(408, 331)",Bernese mountain dog
+ILSVRC2012_val_00048514,n03000247,"(427, 78)","(865, 550)","chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour"
+ILSVRC2012_val_00048513,n02102177,"(38, 65)","(352, 477)",Welsh springer spaniel
+ILSVRC2012_val_00048512,n02111277,"(0, 81)","(392, 297)","Newfoundland, Newfoundland dog"
+ILSVRC2012_val_00048511,n02410509,"(71, 13)","(499, 310)",bison
+ILSVRC2012_val_00048510,n04399382,"(10, 43)","(437, 480)","teddy, teddy bear"
+ILSVRC2012_val_00048509,n01704323,"(33, 91)","(455, 250)",triceratops
+ILSVRC2012_val_00048508,n04458633,"(137, 36)","(232, 498)",totem pole
+ILSVRC2012_val_00048507,n03394916,"(219, 196)","(499, 383)","French horn, horn"
+ILSVRC2012_val_00048506,n02917067,"(57, 154)","(495, 245)","bullet train, bullet"
+ILSVRC2012_val_00048505,n01774750,"(89, 127)","(386, 366)",tarantula
+ILSVRC2012_val_00048504,n04118538,"(360, 168)","(395, 216)",rugby ball
+ILSVRC2012_val_00048503,n04532106,"(31, 161)","(338, 498)",vestment
+ILSVRC2012_val_00048502,n02129165,"(701, 193)","(1833, 1183)","lion, king of beasts, Panthera leo"
+ILSVRC2012_val_00048501,n02113023,"(160, 22)","(499, 374)","Pembroke, Pembroke Welsh corgi"
