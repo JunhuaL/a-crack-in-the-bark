@@ -7,6 +7,7 @@ This code is the official implementation for A Crack in the Bark.
 </p>
 
 ## Dependencies
+Our experiments were conducted using Python 3.10 and CUDA 12.6.
 ```
 pytorch==1.13.0
 torchvision==0.14.0
@@ -21,9 +22,24 @@ scikit-image
 scikit-learn
 huggingface_hub==0.28.0
 ```
-The most importand dependencies are `diffusers` and `transformers`. Specifically those versions are used as loading additional models may not work with newer versions.
+The most important dependencies are `diffusers` and `transformers`. Specifically those versions are used as loading additional models may not work with newer versions.
 
 Additionally the docker file is provided to allow you to build an environment to reliably run our experiments.
+
+Due to a bug with the version of `huggingface_hub` in the dependencies, you'll need to edit the `site-packages/diffusers/utils/dynamic_modules_utils.py` file where the line:
+```
+from huggingface_hub import HfFolder, cached_download, hf_hub_download, model_info
+```
+should be modified to:
+```
+from huggingface_hub import HfFolder, hf_hub_download, model_info
+```
+
+If using conda, you can run the following line replacing the target path with the path to your conda installation:
+```
+sed -i 's/from huggingface_hub import HfFolder, cached_download, hf_hub_download, model_info/from huggingface_hub import HfFolder, hf_hub_download, model_info/' /path/to/conda/lib/python3.10/site-packages/diffusers/utils/dynamic_modules_utils.py
+```
+If you are using a virtual environment built with our Dockerfile, these additional setup steps are already done for you.
 
 ## Setup
 Included in this repository there are two zip files, `wmvspub_imagenet.tar.gz` and `wmvsunwm_imagenet.tar.gz`. These are used as both the reference images and public dataset for training the surrogate models used in our attacks.
@@ -32,8 +48,9 @@ Additionally, you'll need the [`512x512_diffusion.pt`](https://openaipublic.blob
 
 For calculating LPIPS you'll need the Alexnet weights from the [LPIPS repository](https://github.com/richzhang/PerceptualSimilarity/tree/master). The `weights` directory under the `lpips` directory need to be placed at the base of this repository. 
 
+
 # Usage
-Our experiments generally follow 4 stages, image generation, surrogate training, watermark removal and assessing the images. Example commands used to execute our experiments can be found in [`example_pipelines.md`](./example_pipelines.md), main changed the user has to make is providing the required paths to specific data directories and parameters for the attacks.
+Our experiments generally follow 4 stages, image generation, surrogate training, watermark removal and assessing the images. Example commands used to execute our experiments can be found in [`example_pipelines.md`](./example_pipelines.md), main changes the user has to make is providing the required paths to specific data directories and parameters for the attacks.
 
 ## Generation
 The image generation script, `generate_data.py`, attaches a customized Logger object to save the outputs and additional meta data required for our experiments. After finishing a new folder will be created following this structure:
